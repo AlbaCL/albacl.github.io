@@ -18,27 +18,17 @@
   </url>
   
   <url>
-    <loc>https://albacl.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albacl.github.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albacl.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://albacl.github.io/publication-type/2/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://albacl.github.io/author/adrian-perez-salinas/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,8 +153,23 @@
   </url>
   
   <url>
+    <loc>https://albacl.github.io/talk/bsc_symposium/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/talk/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/talk/toronto_2019/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -200,6 +205,16 @@
   <url>
     <loc>https://albacl.github.io/publication/hdet/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/talk/stony_brook_2018/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/talk/qpt_2018/</loc>
+    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>

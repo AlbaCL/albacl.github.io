@@ -1,36 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Alba Cervera-Lierta</title>
+    <title>Recent Talks | Alba Cervera-Lierta</title>
     <link>https://albacl.github.io/talk/</link>
       <atom:link href="https://albacl.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Recent Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Recent Talks</title>
       <link>https://albacl.github.io/talk/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://albacl.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+      <title>Maximal Entanglement in Quantum Computation</title>
+      <link>https://albacl.github.io/talk/bsc_symposium/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/bsc_symposium/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the references:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Exact Ising model simulation on a quantum computer&amp;rdquo;, A. Cervera-Lierta,&lt;br&gt;
+
+&lt;a href=&#34;https://doi.org/10.22331/q-2018-12-21-114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum &lt;strong&gt;2&lt;/strong&gt;, 114 (2018)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Quantum circuits for maximally entangled states&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, and Dardo Goyeneche,&lt;br&gt;
+
+&lt;a href=&#34;https://doi.org/10.1103/PhysRevA.100.022342&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Rev. A &lt;strong&gt;100&lt;/strong&gt;, 022342 (2019)&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maximal Entanglement. Applications to Quantum Computation and Particle Physics</title>
+      <link>https://albacl.github.io/talk/toronto_2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/toronto_2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the references:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Maximal Entanglement in High Energy Physics&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, J. Rojo, and L. Rottoli,&lt;br&gt;
+
+&lt;a href=&#34;http://doi.org/10.21468/SciPostPhys.3.5.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SciPost Phys. &lt;strong&gt;3&lt;/strong&gt;, 036 (2017)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Exact Ising model simulation on a quantum computer&amp;rdquo;, A. Cervera-Lierta,&lt;br&gt;
+
+&lt;a href=&#34;https://doi.org/10.22331/q-2018-12-21-114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum &lt;strong&gt;2&lt;/strong&gt;, 114 (2018)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Quantum circuits for maximally entangled states&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, and Dardo Goyeneche,&lt;br&gt;
+
+&lt;a href=&#34;https://doi.org/10.1103/PhysRevA.100.022342&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Rev. A &lt;strong&gt;100&lt;/strong&gt;, 022342 (2019)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maximal Entanglement in High Energy Physics</title>
+      <link>https://albacl.github.io/talk/stony_brook_2018/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/stony_brook_2018/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Maximal Entanglement in High Energy Physics&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, J. Rojo, and L. Rottoli,&lt;br&gt;
+
+&lt;a href=&#34;http://doi.org/10.21468/SciPostPhys.3.5.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SciPost Phys. &lt;strong&gt;3&lt;/strong&gt;, 036 (2017)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exact simulation of a Quantum Phase Transition on a quantum computer</title>
+      <link>https://albacl.github.io/talk/qpt_2018/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/qpt_2018/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Exact Ising model simulation on a quantum computer&amp;rdquo;, A. Cervera-Lierta,&lt;br&gt;
+
+&lt;a href=&#34;https://doi.org/10.22331/q-2018-12-21-114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum &lt;strong&gt;2&lt;/strong&gt;, 114 (2018)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
