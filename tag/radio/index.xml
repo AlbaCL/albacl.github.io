@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radio | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/tag/radio/</link>
+      <atom:link href="https://albacl.github.io/tag/radio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Radio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
+      <title>Radio</title>
+      <link>https://albacl.github.io/tag/radio/</link>
+    </image>
+    
+    <item>
+      <title>Radio</title>
+      <link>https://albacl.github.io/media/radio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/media/radio/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Spanish&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.ondacero.es/programas/mas-de-uno/programas-completos/mas-de-uno-08082018_201808085b6ad0510cf227b4079e174d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Entrevista a Alba Cervera&lt;/a&gt;&lt;br&gt;
+&amp;ldquo;Más de Uno&amp;rdquo;, &lt;em&gt;Onda Cero&lt;/em&gt;, José Miguel Azpiroz and Begoña Gómez de la Fuente, August 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;audio controls style=&#34;width: 100%; margin-bottom: 20px&#34;&gt;
+    
+    &lt;source src=&#34;Mas_De_Uno_08_2018_corte.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    
+    Your browser does not support the audio element.
+&lt;/audio&gt;
+&lt;p&gt;&lt;strong&gt;Catalan&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Secció de ciència,&lt;br&gt;
+&amp;ldquo;Aquí, amb Josep Cuní&amp;rdquo;, &lt;em&gt;SER&lt;/em&gt;, Josep Cuní, January 2019.
+&lt;audio controls style=&#34;width: 100%; margin-bottom: 20px&#34;&gt;
+    
+    &lt;source src=&#34;Aqui_Cuni_2018-19.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    
+    Your browser does not support the audio element.
+&lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://cadenaser.com/emisora/2018/10/29/sercat/1540805501_667355&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Entrevista a Alba Cervera&lt;/a&gt;,&lt;br&gt;
+&amp;ldquo;Espècies Protegides&amp;rdquo;, &lt;em&gt;SER&lt;/em&gt;, Abel Jiménez, October 2018.
+&lt;audio controls style=&#34;width: 100%; margin-bottom: 20px&#34;&gt;
+    
+    &lt;source src=&#34;Especies_Portegides_tall.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    
+    Your browser does not support the audio element.
+&lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.rac1.cat/a-la-carta/detail/c34e9f49-f72b-4c71-a5a7-0369a5148557&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Les dones i la ciència&amp;rdquo;&lt;/a&gt;,  &amp;ldquo;Versió Rac1&amp;rdquo;, &lt;em&gt;Rac1&lt;/em&gt;, Xavi Rocamora, August 2018.
+&lt;audio controls style=&#34;width: 100%; margin-bottom: 20px&#34;&gt;
+    
+    &lt;source src=&#34;Dones-i-la-ciencia_2018-08-21.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    
+    Your browser does not support the audio element.
+&lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entrevista a Alba Cervera,&lt;br&gt;
+&amp;ldquo;La Veu del Baix Matarranya&amp;rdquo;, August 2018.
+&lt;audio controls style=&#34;width: 100%; margin-bottom: 20px&#34;&gt;
+    
+    &lt;source src=&#34;La_Veu_Baix_Matarranya_08_2018.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    
+    Your browser does not support the audio element.
+&lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

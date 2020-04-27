@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albert Gasull | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/author/albert-gasull/</link>
+      <atom:link href="https://albacl.github.io/author/albert-gasull/index.xml" rel="self" type="application/rss+xml" />
+    <description>Albert Gasull</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
+      <title>Albert Gasull</title>
+      <link>https://albacl.github.io/author/albert-gasull/</link>
+    </image>
+    
+    <item>
+      <title>Multipartite entanglement in spin chains and the Hyperdeterminant</title>
+      <link>https://albacl.github.io/publication/hdet/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/hdet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

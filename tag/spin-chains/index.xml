@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spin Chains | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/tag/spin-chains/</link>
+      <atom:link href="https://albacl.github.io/tag/spin-chains/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spin Chains</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
+      <title>Spin Chains</title>
+      <link>https://albacl.github.io/tag/spin-chains/</link>
+    </image>
+    
+    <item>
+      <title>Maximal Entanglement: Applications in Quantum Information and Particle Physics</title>
+      <link>https://albacl.github.io/publication/tesi/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/tesi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Ising model simulation on a quantum computer</title>
+      <link>https://albacl.github.io/publication/exact-ising/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/exact-ising/</guid>
+      <description>&lt;p&gt;The code used to obtain the results in IBM quantum devices was awarded with the 
+&lt;a href=&#34;https://www.ibm.com/blogs/research/2018/06/teach-qiskit-winner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Teach Me QISKit&amp;rdquo; award&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multipartite entanglement in spin chains and the Hyperdeterminant</title>
+      <link>https://albacl.github.io/publication/hdet/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/hdet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

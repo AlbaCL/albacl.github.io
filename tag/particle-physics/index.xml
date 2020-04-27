@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Particle Physics | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/tag/particle-physics/</link>
+      <atom:link href="https://albacl.github.io/tag/particle-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Particle Physics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
+      <title>Particle Physics</title>
+      <link>https://albacl.github.io/tag/particle-physics/</link>
+    </image>
+    
+    <item>
+      <title>Maximal Entanglement: Applications in Quantum Information and Particle Physics</title>
+      <link>https://albacl.github.io/publication/tesi/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/tesi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximal Entanglement in High Energy Physics</title>
+      <link>https://albacl.github.io/publication/maxent/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/maxent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

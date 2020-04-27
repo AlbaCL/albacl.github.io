@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Ignacio Latorre | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/author/jose-ignacio-latorre/</link>
+      <atom:link href="https://albacl.github.io/author/jose-ignacio-latorre/index.xml" rel="self" type="application/rss+xml" />
+    <description>José Ignacio Latorre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
+      <title>José Ignacio Latorre</title>
+      <link>https://albacl.github.io/author/jose-ignacio-latorre/</link>
+    </image>
+    
+    <item>
+      <title>Quantum circuits for maximally entangled states</title>
+      <link>https://albacl.github.io/publication/ames/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/ames/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

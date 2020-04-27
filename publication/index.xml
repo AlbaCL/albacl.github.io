@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/publication/</link>
+      <atom:link href="https://albacl.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://albacl.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Data re-uploading for a universal quantum classifier</title>
+      <link>https://albacl.github.io/publication/data-reuploading-classifier/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/data-reuploading-classifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum circuits for maximally entangled states</title>
+      <link>https://albacl.github.io/publication/ames/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/ames/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximal Entanglement: Applications in Quantum Information and Particle Physics</title>
+      <link>https://albacl.github.io/publication/tesi/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/tesi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Ising model simulation on a quantum computer</title>
+      <link>https://albacl.github.io/publication/exact-ising/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/exact-ising/</guid>
+      <description>&lt;p&gt;The code used to obtain the results in IBM quantum devices was awarded with the 
+&lt;a href=&#34;https://www.ibm.com/blogs/research/2018/06/teach-qiskit-winner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Teach Me QISKit&amp;rdquo; award&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multipartite entanglement in spin chains and the Hyperdeterminant</title>
+      <link>https://albacl.github.io/publication/hdet/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/hdet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximal Entanglement in High Energy Physics</title>
+      <link>https://albacl.github.io/publication/maxent/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/maxent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operational approach to Bell inequalities: Application to qutrits</title>
+      <link>https://albacl.github.io/publication/bellineq/</link>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/bellineq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

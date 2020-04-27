@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/tag/video/</link>
+      <atom:link href="https://albacl.github.io/tag/video/index.xml" rel="self" type="application/rss+xml" />
+    <description>Video</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
+      <title>Video</title>
+      <link>https://albacl.github.io/tag/video/</link>
+    </image>
+    
+    <item>
+      <title>Videos</title>
+      <link>https://albacl.github.io/media/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/media/video/</guid>
+      <description>
+&lt;div class=&#34;widescreen&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ERwPFbuee10&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;widescreen&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7OAhKntiZZ8&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;widescreen&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/SjOASr8n-DY&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;widescreen&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/thENwNOUoGs&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;widescreen&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MozJzB26uyU&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;widescreen&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/zyyNRSOhrZg&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
