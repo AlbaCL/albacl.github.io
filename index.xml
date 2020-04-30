@@ -350,6 +350,74 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     </item>
     
     <item>
+      <title>Interviews</title>
+      <link>https://albacl.github.io/media/interviews/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/media/interviews/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;English&lt;/strong&gt;
+​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.ibm.com/blogs/research/2018/06/teach-qiskit-winner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Teach Me QISKit: We have a winner!&amp;quot;&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;IBM&lt;/em&gt;, June 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Spanish&lt;/strong&gt;
+​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://innovadores.larazon.es/es/y-si-el-machine-learning-diese-el-salto-cuantico/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;quot;¿Y si el &amp;lsquo;machine learning&amp;rsquo; diese el salto cuántico?&amp;quot;&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Innovadores&lt;/em&gt;, María Climent, November 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.muycomputerpro.com/2018/09/04/pregunta-cuando-quien&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;La pregunta no es cuándo sino quién en computación cuántica&amp;rdquo;&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;MCPRO&lt;/em&gt;, Elisabeth Rojas, September 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.agenciasinc.es/Entrevistas/Una-joven-exploradora-del-universo-cuantico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Una joven exploradora del universo cuántico&amp;rdquo;&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;SINC&lt;/em&gt;, Ana Hernando, July 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.innovaspain.com/alba-cervera-ibm-computacion-cuantica/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Alba Cervera, la investigadora española que será pionera de la computación cuántica&amp;rdquo;&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;InnovaSpain&lt;/em&gt;, Juan F. Calero, July 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.hoy.es/tecnologia/investigacion/futuro-mundo-cuantico-Alba-Cervera-20180701205237-ntrc.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;El futuro del mundo cuántico se escribe con ñ&amp;rdquo;&lt;/a&gt;&lt;br&gt;
+Hoy, José Antonio Gonzalez, July 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://directortic.es/wp-content/uploads/2018/06/Director-TIC-195-jun-2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Computación cuántica, con nombre de mujer&amp;rdquo; (pdf)&lt;/a&gt; &lt;br&gt;
+&lt;em&gt;Director TIC&lt;/em&gt;, June 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://amp.elperiodico.com/es/ciencia/20180603/alba-cervera-investigadora-computacion-cuantica-6852419&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;La investigadora del mundo cuántico&amp;rdquo;&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;El Periódico&lt;/em&gt;, Valentina Raffio, June 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Catalan&lt;/strong&gt;
+​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.lacomarca.net/primeres-voltes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Primeres voltes&amp;rdquo;&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;La Comarca&lt;/em&gt;, Estela Rius, July 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.ara.cat/societat/Alba-Cervera-ordinador-descobrir-qualsevol_0_2106389378&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;L’ordinador quàntic podria descobrir qualsevol secret d’estat&amp;rdquo;&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Diari Ara&lt;/em&gt;, David Cobo, October 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>https://albacl.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -735,74 +803,6 @@ Three
 &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the 
 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Interviews</title>
-      <link>https://albacl.github.io/media/interviews/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/media/interviews/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;English&lt;/strong&gt;
-​&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.ibm.com/blogs/research/2018/06/teach-qiskit-winner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Teach Me QISKit: We have a winner!&amp;quot;&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;IBM&lt;/em&gt;, June 2018.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Spanish&lt;/strong&gt;
-​&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://innovadores.larazon.es/es/y-si-el-machine-learning-diese-el-salto-cuantico/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;quot;¿Y si el &amp;lsquo;machine learning&amp;rsquo; diese el salto cuántico?&amp;quot;&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Innovadores&lt;/em&gt;, María Climent, November 2019.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.muycomputerpro.com/2018/09/04/pregunta-cuando-quien&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;La pregunta no es cuándo sino quién en computación cuántica&amp;rdquo;&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;MCPRO&lt;/em&gt;, Elisabeth Rojas, September 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.agenciasinc.es/Entrevistas/Una-joven-exploradora-del-universo-cuantico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Una joven exploradora del universo cuántico&amp;rdquo;&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;SINC&lt;/em&gt;, Ana Hernando, July 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.innovaspain.com/alba-cervera-ibm-computacion-cuantica/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Alba Cervera, la investigadora española que será pionera de la computación cuántica&amp;rdquo;&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;InnovaSpain&lt;/em&gt;, Juan F. Calero, July 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.hoy.es/tecnologia/investigacion/futuro-mundo-cuantico-Alba-Cervera-20180701205237-ntrc.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;El futuro del mundo cuántico se escribe con ñ&amp;rdquo;&lt;/a&gt;&lt;br&gt;
-Hoy, José Antonio Gonzalez, July 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://directortic.es/wp-content/uploads/2018/06/Director-TIC-195-jun-2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Computación cuántica, con nombre de mujer&amp;rdquo; (pdf)&lt;/a&gt; &lt;br&gt;
-&lt;em&gt;Director TIC&lt;/em&gt;, June 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://amp.elperiodico.com/es/ciencia/20180603/alba-cervera-investigadora-computacion-cuantica-6852419&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;La investigadora del mundo cuántico&amp;rdquo;&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;El Periódico&lt;/em&gt;, Valentina Raffio, June 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Catalan&lt;/strong&gt;
-​&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.lacomarca.net/primeres-voltes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Primeres voltes&amp;rdquo;&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;La Comarca&lt;/em&gt;, Estela Rius, July 2019.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.ara.cat/societat/Alba-Cervera-ordinador-descobrir-qualsevol_0_2106389378&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;L’ordinador quàntic podria descobrir qualsevol secret d’estat&amp;rdquo;&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Diari Ara&lt;/em&gt;, David Cobo, October 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
