@@ -113,16 +113,6 @@
   </url>
   
   <url>
-    <loc>https://albacl.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albacl.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://albacl.github.io/publication-type/7/</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
   </url>
@@ -188,11 +178,6 @@
   </url>
   
   <url>
-    <loc>https://albacl.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://albacl.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -225,6 +210,21 @@
   <url>
     <loc>https://albacl.github.io/talk/stony_brook_2018/</loc>
     <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/post/how_i_became_qc/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/post/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/post/medium_qwa/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -263,23 +263,7 @@
   </url>
   
   <url>
-    <loc>https://albacl.github.io/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albacl.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://albacl.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albacl.github.io/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -37,55 +37,6 @@
     </item>
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://albacl.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-jupyter lab index.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;---
-title: My post&#39;s title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Edit the metadata of your post, using the 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Exact Ising model simulation on a quantum computer</title>
       <link>https://albacl.github.io/publication/exact-ising/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
@@ -104,6 +55,387 @@ date: 2019-09-01
     </item>
     
     <item>
+      <title>How I became a quantum computation scientist</title>
+      <link>https://albacl.github.io/post/how_i_became_qc/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/post/how_i_became_qc/</guid>
+      <description>&lt;p&gt;&lt;em&gt;[Originally posted in 
+&lt;a href=&#34;https://medium.com/qiskit/how-i-became-a-quantum-computation-scientist-dbf4ccd538c9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qiskit Medium page&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Oxford, May 5th of 2016. As every morning since I started my scholarship 4 months before, I woke up, took my old borrowed bicycle (that almost killed me several times) and rode across Oxford city, from Raleigh Park to Keble Road, the site for Particle Theory group of Rudolph Pierls Institute for Theoretical Physics. My daily routine upon arriving at my office began with a glass of water, which I drank while reading the news, followed by a coffee, which I enjoyed while reading quant-ph and hep-th on arXiv. That day I stumbled upon an amazing piece of news. 
+&lt;a href=&#34;https://www.ibm.com/blogs/think/2016/05/the-quantum-age-of-computing-is-here/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBM had announced&lt;/a&gt; an &lt;em&gt;“advanced quantum processor to not just the scientific community, but the general public, providing access to a quantum computing platform from any desktop or mobile device via the cloud”&lt;/em&gt;. Immediately, I sent an email to my group in Barcelona. Of course, they had read the news as well, they were already registered in 
+&lt;a href=&#34;https://quantumexperience.ng.bluemix.net/qx/community&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBM Quantum Experience&lt;/a&gt; and had some ideas…&lt;/p&gt;
+&lt;p&gt;We had been working on Bell Inequalities since I started my Ph.D. 8 months before, concretely those for more than two qubits, known as Mermin inequalities, and 
+&lt;a href=&#34;https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.032102&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new proposals for qutrits&lt;/a&gt;. Since IBM offered a quantum computer of 5 qubits, they decided to check if these inequalities are violated. In other words, was that quantum device actually quantum? Daniel Alsina, at that time a Ph.D. student, told me later that he and our advisor closed themselves in their office until they programmed all needed circuits. No sooner said than done, on May 13th of 2016 I received an email with their work published on arXiv. 
+&lt;a href=&#34;https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.012314&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The first paper&lt;/a&gt; using IBM quantum computer proved the violation of Mermin inequalities. That device was truly quantum!&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-bell-inequalities-are-a-tool-to-discern-between-quantum-non-locality-and-any-local-theory-of-hidden-variables-the-operators-a-and-a-correspond-to-two-different-setting-for-the-measurement-of-each-qubit-n-each-measurement-can-take-the-values-1-or--1-depending-on-the-result-of-the-inequality-one-can-validate-classical-physics-local-realism-theories-lr-or-violate-the-inequality-if-we-obtain-a-greater-value-than-the-bound-imposed-by-lr-the-qubits-state-can-only-be-descrived-using-quantum-mechanics-qm&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albacl.github.io/img/posts/BI.png&#34; data-caption=&#34;Bell Inequalities are a tool to discern between quantum non-locality and any local theory of hidden variables. The operators “a” and “a’” correspond to two different setting for the measurement of each qubit n. Each measurement can take the values &amp;#43;1 or -1. Depending on the result of the inequality, one can validate classical physics (local realism theories, LR) or violate the inequality. If we obtain a greater value than the bound imposed by LR, the qubits state can only be descrived using quantum mechanics (QM).&#34;&gt;
+
+
+  &lt;img src=&#34;https://albacl.github.io/img/posts/BI.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Bell Inequalities are a tool to discern between quantum non-locality and any local theory of hidden variables. The operators “a” and “a’” correspond to two different setting for the measurement of each qubit n. Each measurement can take the values +1 or -1. Depending on the result of the inequality, one can validate classical physics (local realism theories, LR) or violate the inequality. If we obtain a greater value than the bound imposed by LR, the qubits state can only be descrived using quantum mechanics (QM).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;To my mind that was a milestone in my Ph.D. and probably in my career. It was the first year of my Ph.D., I had done some work on Bell Inequalities and I was starting the central work of my Ph.D. thesis, 
+&lt;a href=&#34;https://scipost.org/10.21468/SciPostPhys.3.5.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;entanglement in particle physics&lt;/a&gt;. But the creation of a public quantum computing platform to run real experiments on the cloud opened a new path. “Does it work properly?” “Is it big enough to program a quantum algorithm?” “What kind of algorithms can we design in that device?” “Could it be useful in the short-term?” These are some of the questions that came into my mind and very likely to other members of the quantum computing community as well, specially theoreticians. Cloud computation brought us closer to the experiment; we could design and test our algorithms and check if they work in near-term quantum computers.&lt;/p&gt;
+&lt;p&gt;When I came back from Oxford, I continued working on entanglement in particle physics but I also started to learn how to use a quantum computer. Last year, our group in the University of Barcelona joined forces with Barcelona Supercomputing Center and started a new group on quantum computation. We, 
+&lt;a href=&#34;http://quantic.bsc.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantic&lt;/a&gt;, aim at building a quantum computer in the Barcelona area. This new project brings me even closer to the experiment, which is enticing. The experimental team has just started to set up the laboratory and we, the theoreticians, continue working with the usual tools, namely paper, pen and laptop, together with remote quantum devices that we can run on the cloud.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IBM “Teach Me QISKit” award&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I love a Spanish popular idiom that translates literally as &lt;em&gt;“the devil is wiser for being old than for being the devil”&lt;/em&gt;. That is, there’s no substitute for experience. A lot of work has been done in quantum computation since the field started in the ’80s. Many generations of theoretical physicists have proposed and improved quantum algorithms, but most of them have not been tested in real devices. It is a good moment to check the literature and push these works into the open.&lt;/p&gt;
+&lt;p&gt;An article came to my hands as a recommendation from my advisor: 
+&lt;a href=&#34;https://journals.aps.org/pra/abstract/10.1103/PhysRevA.79.032316&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Quantum Circuits for Strongly Correlated Quantum Systems”&lt;/a&gt;, by Frank Verstraete, Juan Ignacio Cirac and José Ignacio Latorre. They proposed a quantum algorithm which diagonalizes exactly certain kind of Hamiltonians, in particular de XY Hamiltonian. That circuit mapped the computational basis states into the eigenstates of the Hamiltonian. By preparing initial qubits in a product state one obtains the ground or excited states. They provided an example of this circuit for n=4 and n=8 spins using one and two-qubit gates, but the needed operations are not part of the basic sets in current quantum devices.&lt;/p&gt;
+&lt;p&gt;I decided to adapt this circuit for the Ising model Hamiltonian, a particular case of XY model, using the quantum gates available in the experiments. Once I had this circuit programmed, I could do several experiments. The one-dimensional Ising model is one of the most simple models to describe an interacting spin chain. Its quantum version shows a quantum phase transition, from paramagnetic to ferromagnetic, at a critical value of the transverse field. Unlike thermodynamical phase transitions, this change of phase does not depend on temperature but on quantum fluctuations that occur at zero temperature. You can observe the phase transition by computing the expected value of magnetization.&lt;/p&gt;
+&lt;p&gt;However, it is possible to do even more interesting simulations using this particular circuit. As I said, this circuit maps the computational basis states to the Hamiltonian eigenstates, which means that we have access to the whole spectrum and not only the ground state. Using this property, we can simulate the time evolution of some observable, e.g. magnetization, as the characterization of all eigenstates is needed. As an example, I simulated the time evolution of the |0000&amp;gt; state magnetization: time variable is simply codified in a phase during initial state preparation.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-time-evolution-simulation-of-the-expected-value-of-magnetization-for-the-state-0000-dashed-lines-represent-the-experimental-points-obtained-with-ibmqx5-device&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albacl.github.io/img/posts/Ising.png&#34; data-caption=&#34;Time evolution simulation of the expected value of magnetization for the state |0000&amp;gt;. Dashed lines represent the experimental points obtained with ibmqx5 device.&#34;&gt;
+
+
+  &lt;img src=&#34;https://albacl.github.io/img/posts/Ising.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Time evolution simulation of the expected value of magnetization for the state |0000&amp;gt;. Dashed lines represent the experimental points obtained with ibmqx5 device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;As the Ising model is integrable, it can be solved analytically, and the quantum circuit used can be generalized efficiently to a higher number of qubits. Then, this circuit can be used to benchmark quantum computers. All this work led to 
+&lt;a href=&#34;https://arxiv.org/abs/1807.07112&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my first article written by my own&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;While I was working on this project, IBM announced the IBM Q Awards, so I thought my work could be a good tutorial to learn how to use QISKit and an example of the applicability of quantum computation in condensed matter physics. Apparently judges thought the same, as they proposed my work as the winner. I could not be more honored for this recognition, even more after checking the incredible works from other people which are also available as 
+&lt;a href=&#34;https://nbviewer.jupyter.org/github/QISKit/qiskit-tutorial/blob/master/appendix/teach_me_qiskit_2018/README.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QISKit tutorials&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are living through an amazing period, witnessing the birth of a technology that involves the creation of a new paradigm in computation. In my opinion, the openning of the experiments and their programming tools to everybody not only democratizes science but also boosts its progress.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantum Computation: playing the quantum symphony</title>
+      <link>https://albacl.github.io/post/medium_qwa/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/post/medium_qwa/</guid>
+      <description>&lt;p&gt;&lt;em&gt;[Originally posted in 
+&lt;a href=&#34;https://medium.com/@quantum_wa/quantum-computation-playing-the-quantum-symphony-7492fd4264c4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum World Association Medium page&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“A classical computation is like a solo voice — one line of pure tones succeeding each other. A quantum computation is like a symphony — many lines of tones interfering with one another.”― Seth Lloyd, 
+&lt;a href=&#34;https://www.goodreads.com/book/show/331680.Programming_the_Universe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Programming the Universe: A Quantum Computer Scientist Takes on the Cosmos&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We adapt music to our feelings. An energetic rock track for our morning jog, some mellow tunes while reading a book at a cafe, or a soothing jazz for that unforgettable romantic dinner. There’s a song for every mood and occasion.&lt;/p&gt;
+&lt;p&gt;We adapt different types of computers to our needs and problems; there are numerous types of classical computers, each designed to solve specific problems (calculators to solve basic math operations, ebooks to read, mp4’s to listen to music, or supercomputers to solve intricate problems). Similarly, quantum computers will serve to solve specific types of problems, those that are out of reach for classical computers.
+Just like a smartphone is sufficient to check our emails, quantum processors won’t replace classical computers, but complement them. In the early development stages, quantum and classical algorithms will work in tandem, in a hybrid computational approach. Moreover, classical computers will be used to control/orchestrate the execution of quantum computations, as well as for essential pre- and post-processing tasks. Along these lines, the European Commission has assigned a 
+&lt;a href=&#34;https://ec.europa.eu/digital-single-market/en/content/high-performance-computing-and-quantum-technology-unit-c2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt; to create a bridge between the 
+&lt;a href=&#34;http://europa.eu/rapid/press-release_IP-18-64_en.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;High-Performance Computing initiative&lt;/a&gt; (to build a world-class European supercomputing infrastructure) and the 
+&lt;a href=&#34;https://www.idquantique.com/quantum-technologies-flagship-final-report/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum Technologies Flagship&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Let’s take a long breath now, because before we dive inside the quantum computing symphony, we should learn how quantum mechanics plays music.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The quantum tone: Qubit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;bit&lt;/em&gt; is the basic unit of information used in computation. It physically represents a two-state system, such as “on-off” or “open-closed”, and it is commonly labelled as either 0 or 1.&lt;/p&gt;
+&lt;p&gt;Do you remember the lovely 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Music_box&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music box&lt;/a&gt;? Ultimately, it’s an automatic machine, a kind of simplified computer, which produces sounds when the pin plucks the tuned teeth (in computational language, this could be a “1”) and does nothing if there is no pin when the teeth pass over (this could be the “0”). Then, we can describe this machine using bits by dividing it into sections, one for each musical note, and giving a string of 0’s and 1’s that tell us when the note is playing. The order of these strings of bits is given by the musical sheet and it’s very important! Otherwise, we can’t identify the song and it will probably sound dissonant. This is what we call an algorithm, a list of rules to follow in order to solve a problem (in this case, how to play a nice song). After that, the computer emits an output consisting of a string of bits, 0010110… (the musical notes) which encodes the solution (the song).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-music-box-each-color-represents-a-musical-note-guess-what-song-is-playing&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albacl.github.io/img/posts/QMusic.gif&#34; data-caption=&#34;Music box: each color represents a musical note. Guess what song is playing!&#34;&gt;
+
+
+  &lt;img src=&#34;https://albacl.github.io/img/posts/QMusic.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Music box: each color represents a musical note. Guess what song is playing!
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We are all familiar with music, but what if we want to construct a quantum music box? Then, all its components should obey the laws of quantum mechanics which, as you will see, are both very strange and useful.&lt;/p&gt;
+&lt;p&gt;The first thing to do is to have a quantum bit: the qubit. To differentiate it from a classical bit, a qubit is written between “|” and “&amp;gt;”. For example, |0&amp;gt; denotes a qubit in the logical state “0”. A string of qubits is written |0&amp;gt;|0&amp;gt;|1&amp;gt;|0&amp;gt;…, or for simplicity |0010…&amp;gt;. The first astonishing qubit characteristic, which has no equivalence in the world of classical bits, is that it could be in the state |0&amp;gt;, in the state |1&amp;gt; or in a superposition of both! For example, imagine that two possible configurations of a qubit correspond to two quantum-notes, for instance C and E (do and mi). Then we can construct a qubit state that we’ll call |♫&amp;gt;:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-quantum-tone-formed-by-the-superposition-of-the-notes-c-and-e-do-and-mi&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albacl.github.io/img/posts/music_state.png&#34; data-caption=&#34;A quantum-tone formed by the superposition of the notes C and E, |do&amp;gt; and |mi&amp;gt;.&#34;&gt;
+
+
+  &lt;img src=&#34;https://albacl.github.io/img/posts/music_state.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A quantum-tone formed by the superposition of the notes C and E, |do&amp;gt; and |mi&amp;gt;.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;As we said, this has no equivalence in our world, the classical world. It only works in the quantum mechanical kingdom. But there is a way to extract information from that world: we can &lt;em&gt;measure&lt;/em&gt; the qubit, listen to it. When we do that, we destroy the superposition, the state |♫&amp;gt; &lt;em&gt;collapses&lt;/em&gt; and we force the qubit to reveal itself as either one state or the other: our quantum music box will play a |do&amp;gt; or a |mi&amp;gt;. If our box has thousands of |♫&amp;gt; states and we want to listen to them one by one, we will sometimes hear a |do&amp;gt;, sometimes a |mi&amp;gt;. The result after the measurement is probabilistic: in this example each note has 50% probability of being played.&lt;/p&gt;
+&lt;p&gt;Why is this useful? You might say “Ok, this is a very complicated way of describing a string of classical bits, as I can design a music box that reproduces the C note when the output is 0 and the E note when it’s 1 and make the result be probabilistic”. Of course you can! But then you cannot take advantage of the most important consequence of superposition: &lt;em&gt;interference&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The quantum chords: Interference&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you have never played a piano before, and start pressing its keys randomly, it is very unlikely that you will produce a lovely melody. However, when Yuja Wang, a talented professional pianist, plays 
+&lt;a href=&#34;https://www.youtube.com/watch?v=vWFcbuOav3g&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozart’s Turkish March&lt;/a&gt; the result is wonderful! The reason for that? She knows what keys to press, in what order, and with what intensity, not only because she knows the sheet; she also knows harmony and, therefore, how to combine individual sounds in order to obtain the desired melody.&lt;/p&gt;
+&lt;p&gt;Back to the quantum music box. Now that we have learnt how to construct such an object, we can start playing with it. We gained enough experience to create any quantum-tone, with different quantum notes and more sophisticated superpositions (with minus instead of plus, with other coefficients, etc). Imagine that at some point we put something — let’s call it H — between the quantum-teeth and the quantum-pins that make the |♫&amp;gt; tone change. By doing so, the |do&amp;gt; splits into a superposition of |do&amp;gt;+|mi&amp;gt; and the |mi&amp;gt; into |do&amp;gt;-|mi&amp;gt;: |♫&amp;gt; become a different tone, |♪&amp;gt;:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-operation-h-produces-domi-if-it-is-applied-over-do-and-do-mi-if-it-is-applied-over-mi&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albacl.github.io/img/posts/music_state2.png&#34; data-caption=&#34;The operation H produces |do&amp;gt;&amp;#43;|mi&amp;gt; if it is applied over |do&amp;gt;, and |do&amp;gt;-|mi&amp;gt; if it is applied over |mi&amp;gt;.&#34;&gt;
+
+
+  &lt;img src=&#34;https://albacl.github.io/img/posts/music_state2.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The operation H produces |do&amp;gt;+|mi&amp;gt; if it is applied over |do&amp;gt;, and |do&amp;gt;-|mi&amp;gt; if it is applied over |mi&amp;gt;.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;As a consequence, the two |mi&amp;gt; cancel each other due to &lt;em&gt;quantum interference&lt;/em&gt;, and the final result is a lonely |do&amp;gt;: if we want to listen to |♪&amp;gt; we will always hear |do&amp;gt;. Herein lies the parallelism of quantum computing: we can modify the state with a single operation (H, a &lt;em&gt;quantum gate&lt;/em&gt;) affecting the two quantum levels, |do&amp;gt; and |mi&amp;gt;, at the same time and in a different way.&lt;/p&gt;
+&lt;p&gt;Let’s continue with our qubit manipulation and let’s perform another quantum gate, U:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-quantum-tones-have-different-probability-of-being-listened-to-do-has-80-and-mi-has-20&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albacl.github.io/img/posts/music_state3.png&#34; data-caption=&#34;The quantum tones have different probability of being listened to; |do&amp;gt; has 80% and |mi&amp;gt; has 20%.&#34;&gt;
+
+
+  &lt;img src=&#34;https://albacl.github.io/img/posts/music_state3.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The quantum tones have different probability of being listened to; |do&amp;gt; has 80% and |mi&amp;gt; has 20%.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The qubit has changed completely since we started: now the probability of obtaining a |do&amp;gt; note is 80% and the probability of obtaining a |mi&amp;gt; is 20%.&lt;/p&gt;
+&lt;p&gt;What if we want to introduce more quantum notes? How can we construct a quantum-chord? Well, we can start playing with more than one qubit! Taking only two qubits, we can obtain a superposition of four notes, labelling |do&amp;gt; with |00&amp;gt;, |re&amp;gt; with |01&amp;gt;, |mi&amp;gt; with |10&amp;gt; and |fa&amp;gt; with |11&amp;gt;. With 3 qubits we can have all heptatonic quantum scale:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-we-can-represent-the-heptatonic-quantum-scale-combining-three-qubits&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albacl.github.io/img/posts/music_state4.png&#34; data-caption=&#34;We can represent the heptatonic quantum scale combining three qubits.&#34;&gt;
+
+
+  &lt;img src=&#34;https://albacl.github.io/img/posts/music_state4.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    We can represent the heptatonic quantum scale combining three qubits.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;And so on and so forth. In general, with n qubits we can construct a superposition of 2^n states.
+Now imagine that we have a problem that involves n parties: we can assign one qubit/party, which allow us to explore a space of solutions of 2^n. Then, using quantum gates, we can operate with all qubits all together in a very clever way so the solutions that are not correct cancel each other because of quantum interference, just like H cancelled the |mi&amp;gt; note in our quantum music box. Or we can make the correct solution more probable to appear (&lt;em&gt;amplitude amplification&lt;/em&gt;); by repeating the process many times we can guess what the true solution is, as the gate U did by increasing the probability of obtaining a |do&amp;gt;. Quantum algorithms exploit this strategy and enable us to solve problems using exponentially or polynomially fewer operations — depending on the problem — than a classical computer. The main example is the &lt;em&gt;Shor’s algorithm&lt;/em&gt;, the one that is able to factorize prime numbers in a reasonable time meanwhile a supercomputer would take years. We will explain this problem in future entries for its importance in cryptography.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Classical computer cannot play a quantum symphony&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Superposition is not the only perk that comes with quantum mechanics. Do you remember the 
+&lt;a href=&#34;https://medium.com/@quantum_wa/quantum-cryptography-communication-87d2048eed23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;birthday tale&lt;/a&gt; of the previous QWA entry? There, two twins shared a quantum &lt;em&gt;entangled&lt;/em&gt; present, which consisted of a superposition of two cars and two pies. The twins would open their quantum presents each in their room. If one found a pie, she could not guess if it was due to randomness, or if her brother had opened his box before and collapsed the quantum present to a pie-pie.
+Entanglement is extraordinary. It was proven that highly entangled states cannot be described efficiently using classical physics (this is due to Bell’s theorem, an issue that we will cover in a future article). But entanglement is a property that naturally arises in quantum systems. Therefore, to study these systems and their characteristics, it will be crucial to use a quantum computer, which has the same properties, rather than a classical computer, which can — at best — approximate their description. This simple, but elegant thought, was the initial motivation that 
+&lt;a href=&#34;https://medium.com/@quantum_wa/quantum-cryptography-communication-87d2048eed23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;encouraged&lt;/a&gt; the Nobel Laureate Richard Feynman to theorize a quantum computer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The quantum instruments and players&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A quantum symphony requires quantum instruments, which can play with superpositions and entanglement. It’s a very novel kind of symphony, since constructions of these instruments has only begun in very recent years, and they are still under development and constant improvement. Just as the harpsichord evolved to the piano or the lyre to the violin, current quantum computers will allow for unprecedented computational tunes.
+Who will develop the quantum Stradivarius? Who is going to be the Stradivari that will build it? We have some candidates. The first company that launched a quantum computer was the Canadian 
+&lt;a href=&#34;https://www.dwavesys.com/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DWAVE&lt;/a&gt;; it started in 2007 with a 16-qubit &lt;em&gt;quantum annealing processor&lt;/em&gt; (an &lt;em&gt;analog quantum computer&lt;/em&gt;) and its latest product contains 2000 qubits. Quantum annealers are also being developed by 
+&lt;a href=&#34;https://www.hpcwire.com/2017/11/22/japan-unveils-first-quantum-computer-prototype/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNT&lt;/a&gt; in Japan and the startup 
+&lt;a href=&#34;https://qilimanjaro.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qilimanjaro&lt;/a&gt;. The giant computing company 
+&lt;a href=&#34;https://www.research.ibm.com/ibm-q/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBM&lt;/a&gt; was the first to offer a &lt;em&gt;universal quantum computing processor&lt;/em&gt; (a &lt;em&gt;digital quantum computer&lt;/em&gt;) on the cloud. Its first prototype was launched in 2016 and contained 5 qubits. One year later they launched a 16-qubit processor, and at the end of 2017 they made available a 20-qubit device and announced a 
+&lt;a href=&#34;https://www.technologyreview.com/s/609451/ibm-raises-the-bar-with-a-50-qubit-quantum-computer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;50-qubit&lt;/a&gt; one.&lt;/p&gt;
+&lt;p&gt;Other big computing multinational companies have also answered the quantum computing call. 
+&lt;a href=&#34;https://research.google.com/pubs/QuantumAI.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&lt;/a&gt; started with few-qubit quantum processors, and in March 2018 they announced a 
+&lt;a href=&#34;https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;72-qubit device&lt;/a&gt;. 
+&lt;a href=&#34;https://www.microsoft.com/en-us/quantum/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft&lt;/a&gt; is developing a quantum computer powered by a very special type of qubit, &lt;em&gt;topological qubits&lt;/em&gt;; 
+&lt;a href=&#34;https://www.nature.com/nature/outline/quantum-computing/pdf/quantum-computing.pdf?origin=ppub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nokia Bell Labs&lt;/a&gt; is pursuing the same strategy. 
+&lt;a href=&#34;https://newsroom.intel.com/press-kits/quantum-computing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intel&lt;/a&gt; is building quantum chips currently being tested by QuTech group at Delft, the latest one a 
+&lt;a href=&#34;https://newsroom.intel.com/news/intel-advances-quantum-neuromorphic-computing-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;49-qubit&lt;/a&gt; processor. Chinese tech giants have joined the race too: 
+&lt;a href=&#34;https://www.alibabacloud.com/press-room/alibaba-cloud-and-cas-launch-one-of-the-worlds-most&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alibaba&lt;/a&gt; has made an 11-qubit device, while 
+&lt;a href=&#34;https://technode.com/2018/03/08/baidu-quantum-computing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baidu&lt;/a&gt; is investing in its own quantum computing institute.&lt;/p&gt;
+&lt;p&gt;New companies are also betting on quantum computing. 
+&lt;a href=&#34;https://www.rigetti.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rigetti&lt;/a&gt; was born as a startup from 
+&lt;a href=&#34;http://www.ycombinator.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Y Combinator&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.inverse.com/article/38424-rigetti-quantum-computer-could-beat-google-intel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;has raised USD$70 million&lt;/a&gt; from private investors: they have a 19-qubit device, which can be used on the cloud. 
+&lt;a href=&#34;http://quantumcircuits.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum Circuits Inc&lt;/a&gt; is also developing a superconducting quantum processor. Other new companies are betting for other kind of qubits than the &lt;em&gt;superconducting qubits&lt;/em&gt;: 
+&lt;a href=&#34;https://ionq.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IonQ&lt;/a&gt; is developing a quantum computer using ion qubits, 
+&lt;a href=&#34;http://sqc.com.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Silicon Quantum Computing&lt;/a&gt; is developing a &lt;em&gt;silicon based&lt;/em&gt; quantum integrated circuit and 
+&lt;a href=&#34;https://www.xanadu.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xanadu&lt;/a&gt; a quantum &lt;em&gt;photonic&lt;/em&gt; processor.&lt;/p&gt;
+&lt;p&gt;Besides quantum instruments, we need quantum composers and players: what kind of problems can we run on a quantum computer? How do we program and run these devices? Who can discover and develop algorithms? To answer these kind of questions, consulting, software and enabling technologies companies are emerging: 
+&lt;a href=&#34;https://www.entanglementpartners.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Entanglement Partners&lt;/a&gt; and 
+&lt;a href=&#34;http://www.h-bar.com.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H-bar Quantum Consultants&lt;/a&gt;, both founders of QWA, are good examples. Major startups in the software space include 
+&lt;a href=&#34;https://1qbit.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1Qbit&lt;/a&gt;, 
+&lt;a href=&#34;http://zapatacomputing.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zapata Computing&lt;/a&gt; and 
+&lt;a href=&#34;http://www.qxbranch.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QxBranch&lt;/a&gt;. Early stage startups include 
+&lt;a href=&#34;https://q-ctrl.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Q-Ctrl&lt;/a&gt;, 
+&lt;a href=&#34;https://www.proteinqure.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ProteinQure&lt;/a&gt;, 
+&lt;a href=&#34;https://www.entropicalabs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Entropica Labs&lt;/a&gt;, 
+&lt;a href=&#34;http://horizonquantum.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Horizon Quantum&lt;/a&gt;, and the list is growing day by day!&lt;/p&gt;
+&lt;p&gt;QWA was born to connect everybody, players and composers, to create and play all together the most wonderful quantum symphony!&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-disclaimer-figure-not-updated&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albacl.github.io/img/posts/QPlayers.png&#34; data-caption=&#34;[Disclaimer: figure not updated.]&#34;&gt;
+
+
+  &lt;img src=&#34;https://albacl.github.io/img/posts/QPlayers.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    [Disclaimer: figure not updated.]
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Maximal Entanglement in High Energy Physics</title>
       <link>https://albacl.github.io/publication/maxent/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
@@ -117,150 +449,6 @@ date: 2019-09-01
       <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://albacl.github.io/publication/bellineq/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>https://albacl.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/post/getting-started/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
-&lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 
-&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 
-&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👥 
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: 
-&lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@source_themes&lt;/a&gt; 
-&lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; 
-&lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
-&lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
-&lt;ul&gt;
-&lt;li&gt;☕️ 
-&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💵 
-&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🖼️ 
-&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👕 
-&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-
-
-  &lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
-&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and 
-&lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
-&lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, 
-&lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the 
-&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Then 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of 
-&lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present 
-&lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

@@ -1,0 +1,1265 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Alba Cervera-Lierta">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Popular summary about the basics of quantum computing.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://albacl.github.io/post/medium_qwa/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://albacl.github.io/post/medium_qwa/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Alba Cervera-Lierta">
+  <meta property="og:url" content="https://albacl.github.io/post/medium_qwa/">
+  <meta property="og:title" content="Quantum Computation: playing the quantum symphony | Alba Cervera-Lierta">
+  <meta property="og:description" content="Popular summary about the basics of quantum computing."><meta property="og:image" content="https://albacl.github.io/post/medium_qwa/featured.png">
+  <meta property="twitter:image" content="https://albacl.github.io/post/medium_qwa/featured.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2018-05-04T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2018-05-04T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://albacl.github.io/post/medium_qwa/"
+  },
+  "headline": "Quantum Computation: playing the quantum symphony",
+  
+  "image": [
+    "https://albacl.github.io/post/medium_qwa/featured.png"
+  ],
+  
+  "datePublished": "2018-05-04T00:00:00Z",
+  "dateModified": "2018-05-04T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Alba Cervera-Lierta"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Alba Cervera-Lierta",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Popular summary about the basics of quantum computing."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Quantum Computation: playing the quantum symphony | Alba Cervera-Lierta</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Alba Cervera-Lierta</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Alba Cervera-Lierta</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#media"><span>Media</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Quantum Computation: playing the quantum symphony</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/alba-cervera-lierta/">Alba Cervera-Lierta</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+      
+      
+        
+      
+    
+      May 4, 2018
+    
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    10 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header container-fluid featured-image-wrapper mt-4 mb-4" style="max-width: 850px; max-height: 614px;">
+  <div style="position: relative">
+    <img src="/post/medium_qwa/featured.png" alt="" class="featured-image">
+    <span class="article-header-caption">The Quantum Symphony</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p><em>[Originally posted in 
+<a href="https://medium.com/@quantum_wa/quantum-computation-playing-the-quantum-symphony-7492fd4264c4" target="_blank" rel="noopener">Quantum World Association Medium page</a>]</em></p>
+<p><em>“A classical computation is like a solo voice — one line of pure tones succeeding each other. A quantum computation is like a symphony — many lines of tones interfering with one another.”― Seth Lloyd, 
+<a href="https://www.goodreads.com/book/show/331680.Programming_the_Universe" target="_blank" rel="noopener">Programming the Universe: A Quantum Computer Scientist Takes on the Cosmos</a>.</em></p>
+<p>We adapt music to our feelings. An energetic rock track for our morning jog, some mellow tunes while reading a book at a cafe, or a soothing jazz for that unforgettable romantic dinner. There’s a song for every mood and occasion.</p>
+<p>We adapt different types of computers to our needs and problems; there are numerous types of classical computers, each designed to solve specific problems (calculators to solve basic math operations, ebooks to read, mp4’s to listen to music, or supercomputers to solve intricate problems). Similarly, quantum computers will serve to solve specific types of problems, those that are out of reach for classical computers.
+Just like a smartphone is sufficient to check our emails, quantum processors won’t replace classical computers, but complement them. In the early development stages, quantum and classical algorithms will work in tandem, in a hybrid computational approach. Moreover, classical computers will be used to control/orchestrate the execution of quantum computations, as well as for essential pre- and post-processing tasks. Along these lines, the European Commission has assigned a 
+<a href="https://ec.europa.eu/digital-single-market/en/content/high-performance-computing-and-quantum-technology-unit-c2" target="_blank" rel="noopener">team</a> to create a bridge between the 
+<a href="http://europa.eu/rapid/press-release_IP-18-64_en.htm" target="_blank" rel="noopener">High-Performance Computing initiative</a> (to build a world-class European supercomputing infrastructure) and the 
+<a href="https://www.idquantique.com/quantum-technologies-flagship-final-report/" target="_blank" rel="noopener">Quantum Technologies Flagship</a>.</p>
+<p>Let’s take a long breath now, because before we dive inside the quantum computing symphony, we should learn how quantum mechanics plays music.</p>
+<p><strong>The quantum tone: Qubit</strong></p>
+<p>The <em>bit</em> is the basic unit of information used in computation. It physically represents a two-state system, such as “on-off” or “open-closed”, and it is commonly labelled as either 0 or 1.</p>
+<p>Do you remember the lovely 
+<a href="https://en.wikipedia.org/wiki/Music_box" target="_blank" rel="noopener">music box</a>? Ultimately, it’s an automatic machine, a kind of simplified computer, which produces sounds when the pin plucks the tuned teeth (in computational language, this could be a “1”) and does nothing if there is no pin when the teeth pass over (this could be the “0”). Then, we can describe this machine using bits by dividing it into sections, one for each musical note, and giving a string of 0’s and 1’s that tell us when the note is playing. The order of these strings of bits is given by the musical sheet and it’s very important! Otherwise, we can’t identify the song and it will probably sound dissonant. This is what we call an algorithm, a list of rules to follow in order to solve a problem (in this case, how to play a nice song). After that, the computer emits an output consisting of a string of bits, 0010110… (the musical notes) which encodes the solution (the song).</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-music-box-each-color-represents-a-musical-note-guess-what-song-is-playing">
+
+
+  <a data-fancybox="" href="/img/posts/QMusic.gif" data-caption="Music box: each color represents a musical note. Guess what song is playing!">
+
+
+  <img src="/img/posts/QMusic.gif" alt=""  >
+</a>
+
+
+  
+  
+  <figcaption>
+    Music box: each color represents a musical note. Guess what song is playing!
+  </figcaption>
+
+
+</figure>
+
+<p>We are all familiar with music, but what if we want to construct a quantum music box? Then, all its components should obey the laws of quantum mechanics which, as you will see, are both very strange and useful.</p>
+<p>The first thing to do is to have a quantum bit: the qubit. To differentiate it from a classical bit, a qubit is written between “|” and “&gt;”. For example, |0&gt; denotes a qubit in the logical state “0”. A string of qubits is written |0&gt;|0&gt;|1&gt;|0&gt;…, or for simplicity |0010…&gt;. The first astonishing qubit characteristic, which has no equivalence in the world of classical bits, is that it could be in the state |0&gt;, in the state |1&gt; or in a superposition of both! For example, imagine that two possible configurations of a qubit correspond to two quantum-notes, for instance C and E (do and mi). Then we can construct a qubit state that we’ll call |♫&gt;:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-a-quantum-tone-formed-by-the-superposition-of-the-notes-c-and-e-do-and-mi">
+
+
+  <a data-fancybox="" href="/img/posts/music_state.png" data-caption="A quantum-tone formed by the superposition of the notes C and E, |do&gt; and |mi&gt;.">
+
+
+  <img src="/img/posts/music_state.png" alt=""  >
+</a>
+
+
+  
+  
+  <figcaption>
+    A quantum-tone formed by the superposition of the notes C and E, |do&gt; and |mi&gt;.
+  </figcaption>
+
+
+</figure>
+
+<p>As we said, this has no equivalence in our world, the classical world. It only works in the quantum mechanical kingdom. But there is a way to extract information from that world: we can <em>measure</em> the qubit, listen to it. When we do that, we destroy the superposition, the state |♫&gt; <em>collapses</em> and we force the qubit to reveal itself as either one state or the other: our quantum music box will play a |do&gt; or a |mi&gt;. If our box has thousands of |♫&gt; states and we want to listen to them one by one, we will sometimes hear a |do&gt;, sometimes a |mi&gt;. The result after the measurement is probabilistic: in this example each note has 50% probability of being played.</p>
+<p>Why is this useful? You might say “Ok, this is a very complicated way of describing a string of classical bits, as I can design a music box that reproduces the C note when the output is 0 and the E note when it’s 1 and make the result be probabilistic”. Of course you can! But then you cannot take advantage of the most important consequence of superposition: <em>interference</em>.</p>
+<p><strong>The quantum chords: Interference</strong></p>
+<p>If you have never played a piano before, and start pressing its keys randomly, it is very unlikely that you will produce a lovely melody. However, when Yuja Wang, a talented professional pianist, plays 
+<a href="https://www.youtube.com/watch?v=vWFcbuOav3g" target="_blank" rel="noopener">Mozart’s Turkish March</a> the result is wonderful! The reason for that? She knows what keys to press, in what order, and with what intensity, not only because she knows the sheet; she also knows harmony and, therefore, how to combine individual sounds in order to obtain the desired melody.</p>
+<p>Back to the quantum music box. Now that we have learnt how to construct such an object, we can start playing with it. We gained enough experience to create any quantum-tone, with different quantum notes and more sophisticated superpositions (with minus instead of plus, with other coefficients, etc). Imagine that at some point we put something — let’s call it H — between the quantum-teeth and the quantum-pins that make the |♫&gt; tone change. By doing so, the |do&gt; splits into a superposition of |do&gt;+|mi&gt; and the |mi&gt; into |do&gt;-|mi&gt;: |♫&gt; become a different tone, |♪&gt;:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-the-operation-h-produces-domi-if-it-is-applied-over-do-and-do-mi-if-it-is-applied-over-mi">
+
+
+  <a data-fancybox="" href="/img/posts/music_state2.png" data-caption="The operation H produces |do&gt;&#43;|mi&gt; if it is applied over |do&gt;, and |do&gt;-|mi&gt; if it is applied over |mi&gt;.">
+
+
+  <img src="/img/posts/music_state2.png" alt=""  >
+</a>
+
+
+  
+  
+  <figcaption>
+    The operation H produces |do&gt;+|mi&gt; if it is applied over |do&gt;, and |do&gt;-|mi&gt; if it is applied over |mi&gt;.
+  </figcaption>
+
+
+</figure>
+
+<p>As a consequence, the two |mi&gt; cancel each other due to <em>quantum interference</em>, and the final result is a lonely |do&gt;: if we want to listen to |♪&gt; we will always hear |do&gt;. Herein lies the parallelism of quantum computing: we can modify the state with a single operation (H, a <em>quantum gate</em>) affecting the two quantum levels, |do&gt; and |mi&gt;, at the same time and in a different way.</p>
+<p>Let’s continue with our qubit manipulation and let’s perform another quantum gate, U:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-the-quantum-tones-have-different-probability-of-being-listened-to-do-has-80-and-mi-has-20">
+
+
+  <a data-fancybox="" href="/img/posts/music_state3.png" data-caption="The quantum tones have different probability of being listened to; |do&gt; has 80% and |mi&gt; has 20%.">
+
+
+  <img src="/img/posts/music_state3.png" alt=""  >
+</a>
+
+
+  
+  
+  <figcaption>
+    The quantum tones have different probability of being listened to; |do&gt; has 80% and |mi&gt; has 20%.
+  </figcaption>
+
+
+</figure>
+
+<p>The qubit has changed completely since we started: now the probability of obtaining a |do&gt; note is 80% and the probability of obtaining a |mi&gt; is 20%.</p>
+<p>What if we want to introduce more quantum notes? How can we construct a quantum-chord? Well, we can start playing with more than one qubit! Taking only two qubits, we can obtain a superposition of four notes, labelling |do&gt; with |00&gt;, |re&gt; with |01&gt;, |mi&gt; with |10&gt; and |fa&gt; with |11&gt;. With 3 qubits we can have all heptatonic quantum scale:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-we-can-represent-the-heptatonic-quantum-scale-combining-three-qubits">
+
+
+  <a data-fancybox="" href="/img/posts/music_state4.png" data-caption="We can represent the heptatonic quantum scale combining three qubits.">
+
+
+  <img src="/img/posts/music_state4.png" alt=""  >
+</a>
+
+
+  
+  
+  <figcaption>
+    We can represent the heptatonic quantum scale combining three qubits.
+  </figcaption>
+
+
+</figure>
+
+<p>And so on and so forth. In general, with n qubits we can construct a superposition of 2^n states.
+Now imagine that we have a problem that involves n parties: we can assign one qubit/party, which allow us to explore a space of solutions of 2^n. Then, using quantum gates, we can operate with all qubits all together in a very clever way so the solutions that are not correct cancel each other because of quantum interference, just like H cancelled the |mi&gt; note in our quantum music box. Or we can make the correct solution more probable to appear (<em>amplitude amplification</em>); by repeating the process many times we can guess what the true solution is, as the gate U did by increasing the probability of obtaining a |do&gt;. Quantum algorithms exploit this strategy and enable us to solve problems using exponentially or polynomially fewer operations — depending on the problem — than a classical computer. The main example is the <em>Shor’s algorithm</em>, the one that is able to factorize prime numbers in a reasonable time meanwhile a supercomputer would take years. We will explain this problem in future entries for its importance in cryptography.</p>
+<p><strong>Classical computer cannot play a quantum symphony</strong></p>
+<p>Superposition is not the only perk that comes with quantum mechanics. Do you remember the 
+<a href="https://medium.com/@quantum_wa/quantum-cryptography-communication-87d2048eed23" target="_blank" rel="noopener">birthday tale</a> of the previous QWA entry? There, two twins shared a quantum <em>entangled</em> present, which consisted of a superposition of two cars and two pies. The twins would open their quantum presents each in their room. If one found a pie, she could not guess if it was due to randomness, or if her brother had opened his box before and collapsed the quantum present to a pie-pie.
+Entanglement is extraordinary. It was proven that highly entangled states cannot be described efficiently using classical physics (this is due to Bell’s theorem, an issue that we will cover in a future article). But entanglement is a property that naturally arises in quantum systems. Therefore, to study these systems and their characteristics, it will be crucial to use a quantum computer, which has the same properties, rather than a classical computer, which can — at best — approximate their description. This simple, but elegant thought, was the initial motivation that 
+<a href="https://medium.com/@quantum_wa/quantum-cryptography-communication-87d2048eed23" target="_blank" rel="noopener">encouraged</a> the Nobel Laureate Richard Feynman to theorize a quantum computer.</p>
+<p><strong>The quantum instruments and players</strong></p>
+<p>A quantum symphony requires quantum instruments, which can play with superpositions and entanglement. It’s a very novel kind of symphony, since constructions of these instruments has only begun in very recent years, and they are still under development and constant improvement. Just as the harpsichord evolved to the piano or the lyre to the violin, current quantum computers will allow for unprecedented computational tunes.
+Who will develop the quantum Stradivarius? Who is going to be the Stradivari that will build it? We have some candidates. The first company that launched a quantum computer was the Canadian 
+<a href="https://www.dwavesys.com/home" target="_blank" rel="noopener">DWAVE</a>; it started in 2007 with a 16-qubit <em>quantum annealing processor</em> (an <em>analog quantum computer</em>) and its latest product contains 2000 qubits. Quantum annealers are also being developed by 
+<a href="https://www.hpcwire.com/2017/11/22/japan-unveils-first-quantum-computer-prototype/" target="_blank" rel="noopener">NNT</a> in Japan and the startup 
+<a href="https://qilimanjaro.io/" target="_blank" rel="noopener">Qilimanjaro</a>. The giant computing company 
+<a href="https://www.research.ibm.com/ibm-q/" target="_blank" rel="noopener">IBM</a> was the first to offer a <em>universal quantum computing processor</em> (a <em>digital quantum computer</em>) on the cloud. Its first prototype was launched in 2016 and contained 5 qubits. One year later they launched a 16-qubit processor, and at the end of 2017 they made available a 20-qubit device and announced a 
+<a href="https://www.technologyreview.com/s/609451/ibm-raises-the-bar-with-a-50-qubit-quantum-computer/" target="_blank" rel="noopener">50-qubit</a> one.</p>
+<p>Other big computing multinational companies have also answered the quantum computing call. 
+<a href="https://research.google.com/pubs/QuantumAI.html" target="_blank" rel="noopener">Google</a> started with few-qubit quantum processors, and in March 2018 they announced a 
+<a href="https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html" target="_blank" rel="noopener">72-qubit device</a>. 
+<a href="https://www.microsoft.com/en-us/quantum/" target="_blank" rel="noopener">Microsoft</a> is developing a quantum computer powered by a very special type of qubit, <em>topological qubits</em>; 
+<a href="https://www.nature.com/nature/outline/quantum-computing/pdf/quantum-computing.pdf?origin=ppub" target="_blank" rel="noopener">Nokia Bell Labs</a> is pursuing the same strategy. 
+<a href="https://newsroom.intel.com/press-kits/quantum-computing/" target="_blank" rel="noopener">Intel</a> is building quantum chips currently being tested by QuTech group at Delft, the latest one a 
+<a href="https://newsroom.intel.com/news/intel-advances-quantum-neuromorphic-computing-research/" target="_blank" rel="noopener">49-qubit</a> processor. Chinese tech giants have joined the race too: 
+<a href="https://www.alibabacloud.com/press-room/alibaba-cloud-and-cas-launch-one-of-the-worlds-most" target="_blank" rel="noopener">Alibaba</a> has made an 11-qubit device, while 
+<a href="https://technode.com/2018/03/08/baidu-quantum-computing/" target="_blank" rel="noopener">Baidu</a> is investing in its own quantum computing institute.</p>
+<p>New companies are also betting on quantum computing. 
+<a href="https://www.rigetti.com/" target="_blank" rel="noopener">Rigetti</a> was born as a startup from 
+<a href="http://www.ycombinator.com/" target="_blank" rel="noopener">Y Combinator</a>, and 
+<a href="https://www.inverse.com/article/38424-rigetti-quantum-computer-could-beat-google-intel" target="_blank" rel="noopener">has raised USD$70 million</a> from private investors: they have a 19-qubit device, which can be used on the cloud. 
+<a href="http://quantumcircuits.com/" target="_blank" rel="noopener">Quantum Circuits Inc</a> is also developing a superconducting quantum processor. Other new companies are betting for other kind of qubits than the <em>superconducting qubits</em>: 
+<a href="https://ionq.co/" target="_blank" rel="noopener">IonQ</a> is developing a quantum computer using ion qubits, 
+<a href="http://sqc.com.au/" target="_blank" rel="noopener">Silicon Quantum Computing</a> is developing a <em>silicon based</em> quantum integrated circuit and 
+<a href="https://www.xanadu.ai/" target="_blank" rel="noopener">Xanadu</a> a quantum <em>photonic</em> processor.</p>
+<p>Besides quantum instruments, we need quantum composers and players: what kind of problems can we run on a quantum computer? How do we program and run these devices? Who can discover and develop algorithms? To answer these kind of questions, consulting, software and enabling technologies companies are emerging: 
+<a href="https://www.entanglementpartners.com/" target="_blank" rel="noopener">Entanglement Partners</a> and 
+<a href="http://www.h-bar.com.au/" target="_blank" rel="noopener">H-bar Quantum Consultants</a>, both founders of QWA, are good examples. Major startups in the software space include 
+<a href="https://1qbit.com/" target="_blank" rel="noopener">1Qbit</a>, 
+<a href="http://zapatacomputing.com/" target="_blank" rel="noopener">Zapata Computing</a> and 
+<a href="http://www.qxbranch.com/" target="_blank" rel="noopener">QxBranch</a>. Early stage startups include 
+<a href="https://q-ctrl.com/" target="_blank" rel="noopener">Q-Ctrl</a>, 
+<a href="https://www.proteinqure.com/" target="_blank" rel="noopener">ProteinQure</a>, 
+<a href="https://www.entropicalabs.com/" target="_blank" rel="noopener">Entropica Labs</a>, 
+<a href="http://horizonquantum.com/" target="_blank" rel="noopener">Horizon Quantum</a>, and the list is growing day by day!</p>
+<p>QWA was born to connect everybody, players and composers, to create and play all together the most wonderful quantum symphony!</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-disclaimer-figure-not-updated">
+
+
+  <a data-fancybox="" href="/img/posts/QPlayers.png" data-caption="[Disclaimer: figure not updated.]">
+
+
+  <img src="/img/posts/QPlayers.png" alt=""  >
+</a>
+
+
+  
+  
+  <figcaption>
+    [Disclaimer: figure not updated.]
+  </figcaption>
+
+
+</figure>
+
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/alba-cervera-lierta/avatar_hu83dc0dac3ff1e80e88ce2baf8bdbbb3a_75232_270x270_fill_q90_lanczos_center.jpg" alt="Alba Cervera-Lierta">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://albacl.github.io/">Alba Cervera-Lierta</a></h5>
+        <h6 class="card-subtitle">Postdoctoral fellow</h6>
+        <p class="card-text">Quantum Computation expert.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/a.cerveralierta@utoronto.ca" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.es/citations?user=uc6yBBIAAAAJ&amp;hl=es" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-8835-2910" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/alba-cervera-lierta-phd-4506969b/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/albaclierta" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/files/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
