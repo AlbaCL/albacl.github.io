@@ -5,12 +5,33 @@
     <link>https://albacl.github.io/talk/</link>
       <atom:link href="https://albacl.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Recent Talks</title>
       <link>https://albacl.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Testing and designing quantum algorithms for the NISQ era</title>
+      <link>https://albacl.github.io/talk/int_2020/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/int_2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the references:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Exact Ising model simulation on a quantum computer&amp;rdquo;, A. Cervera-Lierta,&lt;br&gt;
+
+&lt;a href=&#34;https://doi.org/10.22331/q-2018-12-21-114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum &lt;strong&gt;2&lt;/strong&gt;, 114 (2018)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[Tequila repository]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Quantum computer-aided design: digital quantum simulation of quantum processors&amp;rdquo;, Thi Ha Kyaw, Tim Menke, Sukin Sim, Nicolas P. D. Sawaya, William D. Oliver, Gian Giacomo Guerreschi, Alán Aspuru-Guzik, 
+&lt;a href=&#34;https://arxiv.org/abs/2006.03070&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv:2006.03070 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Quantum Computer-Aided design of Quantum Optics Hardware&amp;rdquo;, Jakob S. Kottmann, Mario Krenn, Thi Ha Kyaw, Sumner Alperin-Lea, Alán Aspuru-Guzik, 
+&lt;a href=&#34;https://arxiv.org/abs/2006.03075&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2006.03075 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;a href=&#34;https://arxiv.org/abs/2009.13545v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Maximal Entanglement in Quantum Computation</title>

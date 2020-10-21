@@ -5,7 +5,7 @@
     <link>https://albacl.github.io/</link>
       <atom:link href="https://albacl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alba Cervera-Lierta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Alba Cervera-Lierta</title>
@@ -51,6 +51,27 @@
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testing and designing quantum algorithms for the NISQ era</title>
+      <link>https://albacl.github.io/talk/int_2020/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/int_2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the references:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Exact Ising model simulation on a quantum computer&amp;rdquo;, A. Cervera-Lierta,&lt;br&gt;
+
+&lt;a href=&#34;https://doi.org/10.22331/q-2018-12-21-114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum &lt;strong&gt;2&lt;/strong&gt;, 114 (2018)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[Tequila repository]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Quantum computer-aided design: digital quantum simulation of quantum processors&amp;rdquo;, Thi Ha Kyaw, Tim Menke, Sukin Sim, Nicolas P. D. Sawaya, William D. Oliver, Gian Giacomo Guerreschi, Alán Aspuru-Guzik, 
+&lt;a href=&#34;https://arxiv.org/abs/2006.03070&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv:2006.03070 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Quantum Computer-Aided design of Quantum Optics Hardware&amp;rdquo;, Jakob S. Kottmann, Mario Krenn, Thi Ha Kyaw, Sumner Alperin-Lea, Alán Aspuru-Guzik, 
+&lt;a href=&#34;https://arxiv.org/abs/2006.03075&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2006.03075 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;a href=&#34;https://arxiv.org/abs/2009.13545v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
