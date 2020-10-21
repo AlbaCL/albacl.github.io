@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quantum Machine Learning | Alba Cervera-Lierta</title>
-    <link>https://albacl.github.io/tag/quantum-machine-learning/</link>
-      <atom:link href="https://albacl.github.io/tag/quantum-machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Quantum Machine Learning</description>
+    <title>Jakob S. Kottmann | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/author/jakob-s.-kottmann/</link>
+      <atom:link href="https://albacl.github.io/author/jakob-s.-kottmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jakob S. Kottmann</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
-      <title>Quantum Machine Learning</title>
-      <link>https://albacl.github.io/tag/quantum-machine-learning/</link>
+      <title>Jakob S. Kottmann</title>
+      <link>https://albacl.github.io/author/jakob-s.-kottmann/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://albacl.github.io/publication/metavqe/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://albacl.github.io/publication/metavqe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data re-uploading for a universal quantum classifier</title>
-      <link>https://albacl.github.io/publication/data-reuploading-classifier/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/data-reuploading-classifier/</guid>
       <description></description>
     </item>
     
