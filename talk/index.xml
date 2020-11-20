@@ -5,12 +5,27 @@
     <link>https://albacl.github.io/talk/</link>
       <atom:link href="https://albacl.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Recent Talks</title>
       <link>https://albacl.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Designing Variational Quantum Algorithms withTequila</title>
+      <link>https://albacl.github.io/talk/tequila_2020/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/tequila_2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the references:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Tequila: A platform for rapid development of quantum algorithms&amp;rdquo;, Jakob S. Kottmann, Sumner Alperin-Lea, Teresa Tamayo-Mendoza, Alba Cervera-Lierta, Cyrille Lavigne, Tzu-Ching Yen, Vladyslav Verteletskyi, Philipp Schleich, Abhinav Anand, Matthias Degroote, Skylar Chaney, Maha Kesibi, Artur F. Izmaylov, Alán Aspuru-Guzik,  
+&lt;a href=&#34;https://arxiv.org/abs/2011.03057&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2011.03057 [quant-ph]&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/aspuru-guzik-group/tequila&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tequila repository&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Testing and designing quantum algorithms for the NISQ era</title>
