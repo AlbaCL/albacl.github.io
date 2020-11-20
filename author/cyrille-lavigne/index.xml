@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyrille Lavigne | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/author/cyrille-lavigne/</link>
+      <atom:link href="https://albacl.github.io/author/cyrille-lavigne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cyrille Lavigne</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
+      <title>Cyrille Lavigne</title>
+      <link>https://albacl.github.io/author/cyrille-lavigne/</link>
+    </image>
+    
+    <item>
+      <title>Tequila: A platform for rapid development of quantum algorithms</title>
+      <link>https://albacl.github.io/publication/tequila/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/tequila/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://albacl.github.io/author/alba-cervera-lierta/</link>
       <atom:link href="https://albacl.github.io/author/alba-cervera-lierta/index.xml" rel="self" type="application/rss+xml" />
     <description>Alba Cervera-Lierta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/author/alba-cervera-lierta/avatar_hu83dc0dac3ff1e80e88ce2baf8bdbbb3a_75232_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Alba Cervera-Lierta</title>
       <link>https://albacl.github.io/author/alba-cervera-lierta/</link>
     </image>
+    
+    <item>
+      <title>Tequila: A platform for rapid development of quantum algorithms</title>
+      <link>https://albacl.github.io/publication/tequila/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/tequila/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation</title>
