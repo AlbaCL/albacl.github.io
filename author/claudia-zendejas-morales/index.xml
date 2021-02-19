@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matthias Degroote | Alba Cervera-Lierta</title>
-    <link>https://albacl.github.io/author/matthias-degroote/</link>
-      <atom:link href="https://albacl.github.io/author/matthias-degroote/index.xml" rel="self" type="application/rss+xml" />
-    <description>Matthias Degroote</description>
+    <title>Claudia Zendejas-Morales | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/author/claudia-zendejas-morales/</link>
+      <atom:link href="https://albacl.github.io/author/claudia-zendejas-morales/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claudia Zendejas-Morales</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
-      <title>Matthias Degroote</title>
-      <link>https://albacl.github.io/author/matthias-degroote/</link>
+      <title>Claudia Zendejas-Morales</title>
+      <link>https://albacl.github.io/author/claudia-zendejas-morales/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://albacl.github.io/publication/tequila/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://albacl.github.io/publication/tequila/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Noisy intermediate-scale quantum (NISQ) algorithms</title>
-      <link>https://albacl.github.io/publication/nisq/</link>
-      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/nisq/</guid>
       <description></description>
     </item>
     
