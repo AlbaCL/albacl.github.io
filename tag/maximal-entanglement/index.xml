@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maximal entanglement | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/tag/maximal-entanglement/</link>
+      <atom:link href="https://albacl.github.io/tag/maximal-entanglement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maximal entanglement</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
+      <title>Maximal entanglement</title>
+      <link>https://albacl.github.io/tag/maximal-entanglement/</link>
+    </image>
+    
+    <item>
+      <title>Experimental high-dimensional Greenberger–Horne–Zeilinger entanglement with superconducting transmon qutrits</title>
+      <link>https://albacl.github.io/publication/ghz-qutrit/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/ghz-qutrit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

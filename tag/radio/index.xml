@@ -13,11 +13,22 @@
     </image>
     
     <item>
-      <title>Radio</title>
+      <title>Radio and podcast</title>
       <link>https://albacl.github.io/media/radio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://albacl.github.io/media/radio/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Spanish&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;English&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://datacast.simplecast.com/episodes/alba-cervera-lierta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Episode 56: Apprehending Quantum Computation with Alba Cervera-Liert‪a‬&lt;/a&gt;, &lt;em&gt;Datacast&lt;/em&gt;, James Lee, February 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;audio controls style=&#34;width: 100%; margin-bottom: 20px&#34;&gt;
+    
+    &lt;source src=&#34;alba-lierta-polished-episode.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    
+    Your browser does not support the audio element.
+&lt;/audio&gt;
+&lt;p&gt;&lt;strong&gt;Spanish&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.ondacero.es/programas/mas-de-uno/programas-completos/mas-de-uno-08082018_201808085b6ad0510cf227b4079e174d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Entrevista a Alba Cervera&lt;/a&gt;&lt;br&gt;
