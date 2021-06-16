@@ -5,12 +5,20 @@
     <link>https://albacl.github.io/tag/nisq-algorithms/</link>
       <atom:link href="https://albacl.github.io/tag/nisq-algorithms/index.xml" rel="self" type="application/rss+xml" />
     <description>NISQ Algorithms</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>NISQ Algorithms</title>
       <link>https://albacl.github.io/tag/nisq-algorithms/</link>
     </image>
+    
+    <item>
+      <title>Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation</title>
+      <link>https://albacl.github.io/publication/metavqe/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/metavqe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tequila: A platform for rapid development of quantum algorithms</title>
@@ -25,14 +33,6 @@
       <link>https://albacl.github.io/publication/nisq/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://albacl.github.io/publication/nisq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation</title>
-      <link>https://albacl.github.io/publication/metavqe/</link>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/metavqe/</guid>
       <description></description>
     </item>
     
