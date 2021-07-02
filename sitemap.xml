@@ -18,12 +18,22 @@
   </url>
   
   <url>
-    <loc>https://albacl.github.io/publication-type/2/</loc>
-    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+    <loc>https://albacl.github.io/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://albacl.github.io/</loc>
+    <loc>https://albacl.github.io/talk/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/talk/06_2021_qworld_metavqe/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/publication-type/2/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,13 +93,43 @@
   </url>
   
   <url>
+    <loc>https://albacl.github.io/talk/05_2021_qiskit_ghz/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/talk/05_2021_oxford_metavqe/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/talk/05_2021_pulseqc_ghz/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/talk/05_2021_sciml_metavqe/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/talk/04_2021_apsapril_maxent/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/talk/04_2021_ibero_nisq/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/nisq_hypatia_2021/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://albacl.github.io/talk/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
+    <loc>https://albacl.github.io/talk/04_2021_meryland_maxent/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>

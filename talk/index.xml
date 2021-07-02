@@ -5,12 +5,106 @@
     <link>https://albacl.github.io/talk/</link>
       <atom:link href="https://albacl.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Talks</title>
       <link>https://albacl.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>The Meta-Variational Quantum Eigensolver</title>
+      <link>https://albacl.github.io/talk/06_2021_qworld_metavqe/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/06_2021_qworld_metavqe/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;a href=&#34;https://doi.org/10.1103/PRXQuantum.2.020329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRX Quantum &lt;strong&gt;2&lt;/strong&gt;, 020329 (2021)&lt;/a&gt;, 
+&lt;a href=&#34;https://arxiv.org/abs/2009.13545v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Chronicles of Entangland, the foundation of the SC town</title>
+      <link>https://albacl.github.io/talk/05_2021_qiskit_ghz/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/05_2021_qiskit_ghz/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Experimental high-dimensional Greenberger-Horne-Zeilinger entanglement with superconducting transmon qutrits&amp;rdquo;, Alba Cervera-Lierta, Mario Krenn, Alán Aspuru-Guzik, Alexey Galda 
+&lt;a href=&#34;https://arxiv.org/abs/2104.05627&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2104.05627 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Meta-Variational Quantum Eigensolver</title>
+      <link>https://albacl.github.io/talk/05_2021_oxford_metavqe/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/05_2021_oxford_metavqe/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;a href=&#34;https://doi.org/10.1103/PRXQuantum.2.020329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRX Quantum &lt;strong&gt;2&lt;/strong&gt;, 020329 (2021)&lt;/a&gt;, 
+&lt;a href=&#34;https://arxiv.org/abs/2009.13545v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experimental high-dimensional Greenberger-Horne-Zeilinger entanglement with superconducting transmon qutrits</title>
+      <link>https://albacl.github.io/talk/05_2021_pulseqc_ghz/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/05_2021_pulseqc_ghz/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Experimental high-dimensional Greenberger-Horne-Zeilinger entanglement with superconducting transmon qutrits&amp;rdquo;, Alba Cervera-Lierta, Mario Krenn, Alán Aspuru-Guzik, Alexey Galda 
+&lt;a href=&#34;https://arxiv.org/abs/2104.05627&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2104.05627 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Meta-Variational Quantum Eigensolver</title>
+      <link>https://albacl.github.io/talk/05_2021_sciml_metavqe/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/05_2021_sciml_metavqe/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;a href=&#34;https://arxiv.org/abs/2009.13545v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maximal Entanglement in High Energy Physics</title>
+      <link>https://albacl.github.io/talk/04_2021_apsapril_maxent/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/04_2021_apsapril_maxent/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Maximal Entanglement in High Energy Physics&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, J. Rojo, and L. Rottoli,&lt;br&gt;
+
+&lt;a href=&#34;http://doi.org/10.21468/SciPostPhys.3.5.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SciPost Phys. &lt;strong&gt;3&lt;/strong&gt;, 036 (2017)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Noisy Intermediate-Scale Quantum algorithms (Español)</title>
+      <link>https://albacl.github.io/talk/04_2021_ibero_nisq/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/04_2021_ibero_nisq/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Noisy intermediate-scale quantum (NISQ) algorithms&amp;rdquo;, Kishor Bharti, Alba Cervera-Lierta, Thi Ha Kyaw, Tobias Haug, Sumner Alperin-Lea, Abhinav Anand, Matthias Degroote, Hermanni Heimonen, Jakob S. Kottmann, Tim Menke, Wai-Keong Mok, Sukin Sim, Leong-Chuan Kwek, Alán Aspuru-Guzik, 
+&lt;a href=&#34;https://arxiv.org/abs/2101.08448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2101.08448 [quant-ph] (2021)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Noisy Intermediate-Scale Quantum algorithms</title>
@@ -26,13 +120,28 @@
     </item>
     
     <item>
+      <title>Maximal Entanglement in High Energy Physics</title>
+      <link>https://albacl.github.io/talk/04_2021_meryland_maxent/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/04_2021_meryland_maxent/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Maximal Entanglement in High Energy Physics&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, J. Rojo, and L. Rottoli,&lt;br&gt;
+
+&lt;a href=&#34;http://doi.org/10.21468/SciPostPhys.3.5.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SciPost Phys. &lt;strong&gt;3&lt;/strong&gt;, 036 (2017)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Meta-Variational Quantum Eigensolver</title>
       <link>https://albacl.github.io/talk/march_meeting_2021/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://albacl.github.io/talk/march_meeting_2021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&amp;ldquo;The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;li&gt;&amp;ldquo;Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;a href=&#34;https://doi.org/10.1103/PRXQuantum.2.020329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRX Quantum &lt;strong&gt;2&lt;/strong&gt;, 020329 (2021)&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/2009.13545v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -72,10 +181,11 @@ K. Bharti, A. Cervera-Lierta, T. H. Kyaw, T. Haug, S. Alperin-Lea, A. Anand, M. 
 A. Pérez-Salinas, A. Cervera-Lierta, E. Gil-Fuster, J. I. Latorre,
 
 &lt;a href=&#34;https://quantum-journal.org/papers/q-2020-02-06-226/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum 4, 226 (2020)&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;,
-A. Cervera-Lierta, J. S. Kottmann, A. Aspuru-Guzik,
+&lt;li&gt;&amp;ldquo;Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, 
+Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
 
-&lt;a href=&#34;https://arxiv.org/abs/2009.13545&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph] (2020)&lt;/a&gt;.&lt;/li&gt;
+&lt;a href=&#34;https://doi.org/10.1103/PRXQuantum.2.020329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRX Quantum &lt;strong&gt;2&lt;/strong&gt;, 020329 (2021)&lt;/a&gt;, 
+&lt;a href=&#34;https://arxiv.org/abs/2009.13545v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;One qubit as a Universal Approximant&amp;rdquo;,
 A. Pérez-Salinas, D. López-Núñez, A. García-Sáez, P. Forn-Díaz, J. I. Latorre,
 
@@ -162,7 +272,8 @@ M. Schuld, R. Sweke, J. J. Meyer,
 &lt;a href=&#34;https://arxiv.org/abs/2006.03070&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv:2006.03070 [quant-ph]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Quantum Computer-Aided design of Quantum Optics Hardware&amp;rdquo;, Jakob S. Kottmann, Mario Krenn, Thi Ha Kyaw, Sumner Alperin-Lea, Alán Aspuru-Guzik, 
 &lt;a href=&#34;https://arxiv.org/abs/2006.03075&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2006.03075 [quant-ph]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;li&gt;&amp;ldquo;Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;a href=&#34;https://doi.org/10.1103/PRXQuantum.2.020329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRX Quantum &lt;strong&gt;2&lt;/strong&gt;, 020329 (2021)&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/2009.13545v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
