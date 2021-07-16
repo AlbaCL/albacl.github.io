@@ -5,12 +5,63 @@
     <link>https://albacl.github.io/talk/</link>
       <atom:link href="https://albacl.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Talks</title>
       <link>https://albacl.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Maximal Entanglement in a Quantum Computer</title>
+      <link>https://albacl.github.io/talk/07_2021_fermilab_maxentghz/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/07_2021_fermilab_maxentghz/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Maximal Entanglement in High Energy Physics&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, J. Rojo, and L. Rottoli,&lt;br&gt;
+
+&lt;a href=&#34;http://doi.org/10.21468/SciPostPhys.3.5.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SciPost Phys. &lt;strong&gt;3&lt;/strong&gt;, 036 (2017)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Quantum circuits for maximally entangled states&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, and Dardo Goyeneche,&lt;br&gt;
+
+&lt;a href=&#34;https://doi.org/10.1103/PhysRevA.100.022342&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Rev. A &lt;strong&gt;100&lt;/strong&gt;, 022342 (2019)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Experimental high-dimensional Greenberger-Horne-Zeilinger entanglement with superconducting transmon qutrits&amp;rdquo;, Alba Cervera-Lierta, Mario Krenn, Alán Aspuru-Guzik, Alexey Galda 
+&lt;a href=&#34;https://arxiv.org/abs/2104.05627&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2104.05627 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Noisy Intermediate-Scale Quantum algorithms</title>
+      <link>https://albacl.github.io/talk/07_2021_cern_nisq/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/07_2021_cern_nisq/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Noisy intermediate-scale quantum (NISQ) algorithms&amp;rdquo;, Kishor Bharti, Alba Cervera-Lierta, Thi Ha Kyaw, Tobias Haug, Sumner Alperin-Lea, Abhinav Anand, Matthias Degroote, Hermanni Heimonen, Jakob S. Kottmann, Tim Menke, Wai-Keong Mok, Sukin Sim, Leong-Chuan Kwek, Alán Aspuru-Guzik, 
+&lt;a href=&#34;https://arxiv.org/abs/2101.08448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2101.08448 [quant-ph] (2021)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;a href=&#34;https://doi.org/10.1103/PRXQuantum.2.020329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRX Quantum &lt;strong&gt;2&lt;/strong&gt;, 020329 (2021)&lt;/a&gt;, 
+&lt;a href=&#34;https://arxiv.org/abs/2009.13545v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Data re-uploading for a universal quantum classifier&amp;rdquo;, Adrián Pérez-Salinas, Alba Cervera-Lierta, Elies Gil-Fuster, and José I. Latorre,  
+&lt;a href=&#34;https://doi.org/10.22331/q-2020-02-06-226&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum &lt;strong&gt;4&lt;/strong&gt;, 226 (2020)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Meta-Variational Quantum Eigensolver</title>
+      <link>https://albacl.github.io/talk/07_2021_mlforqx_metavqe/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/07_2021_mlforqx_metavqe/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;a href=&#34;https://doi.org/10.1103/PRXQuantum.2.020329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRX Quantum &lt;strong&gt;2&lt;/strong&gt;, 020329 (2021)&lt;/a&gt;, 
+&lt;a href=&#34;https://arxiv.org/abs/2009.13545v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>The Meta-Variational Quantum Eigensolver</title>
@@ -73,7 +124,8 @@
       <guid>https://albacl.github.io/talk/05_2021_sciml_metavqe/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&amp;ldquo;The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;li&gt;&amp;ldquo;Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation&amp;rdquo;, Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik 
+&lt;a href=&#34;https://doi.org/10.1103/PRXQuantum.2.020329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRX Quantum &lt;strong&gt;2&lt;/strong&gt;, 020329 (2021)&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/2009.13545v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2009.13545 [quant-ph]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
