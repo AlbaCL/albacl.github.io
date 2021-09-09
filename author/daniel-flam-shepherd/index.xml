@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Flam-Shepherd | Alba Cervera-Lierta</title>
+    <link>https://albacl.github.io/author/daniel-flam-shepherd/</link>
+      <atom:link href="https://albacl.github.io/author/daniel-flam-shepherd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Flam-Shepherd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel Flam-Shepherd</title>
+      <link>https://albacl.github.io/author/daniel-flam-shepherd/</link>
+    </image>
+    
+    <item>
+      <title>Learning Interpretable Representations of Entanglement in Quantum Optics Experiments using Deep Generative Models</title>
+      <link>https://albacl.github.io/publication/09_2021_qovae/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/09_2021_qovae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

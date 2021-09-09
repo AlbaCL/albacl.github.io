@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alán Aspuru-Guzik | Alba Cervera-Lierta</title>
+    <title>Alan Aspuru-Guzik | Alba Cervera-Lierta</title>
     <link>https://albacl.github.io/author/alan-aspuru-guzik/</link>
       <atom:link href="https://albacl.github.io/author/alan-aspuru-guzik/index.xml" rel="self" type="application/rss+xml" />
-    <description>Alán Aspuru-Guzik</description>
+    <description>Alan Aspuru-Guzik</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
-      <title>Alán Aspuru-Guzik</title>
+      <title>Alan Aspuru-Guzik</title>
       <link>https://albacl.github.io/author/alan-aspuru-guzik/</link>
     </image>
     
@@ -41,6 +41,14 @@
       <link>https://albacl.github.io/publication/nisq/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://albacl.github.io/publication/nisq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Interpretable Representations of Entanglement in Quantum Optics Experiments using Deep Generative Models</title>
+      <link>https://albacl.github.io/publication/09_2021_qovae/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/09_2021_qovae/</guid>
       <description></description>
     </item>
     
