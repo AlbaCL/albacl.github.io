@@ -5,12 +5,20 @@
     <link>https://albacl.github.io/author/alan-aspuru-guzik/</link>
       <atom:link href="https://albacl.github.io/author/alan-aspuru-guzik/index.xml" rel="self" type="application/rss+xml" />
     <description>Alan Aspuru-Guzik</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Alan Aspuru-Guzik</title>
       <link>https://albacl.github.io/author/alan-aspuru-guzik/</link>
     </image>
+    
+    <item>
+      <title>Design of quantum optical experiments with logic artificial intelligence</title>
+      <link>https://albacl.github.io/publication/09_2021_klaus/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/09_2021_klaus/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning Interpretable Representations of Entanglement in Quantum Optics Experiments using Deep Generative Models</title>
