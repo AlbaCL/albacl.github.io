@@ -5,12 +5,25 @@
     <link>https://albacl.github.io/talk/</link>
       <atom:link href="https://albacl.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Talks</title>
       <link>https://albacl.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>The Noisy Intermediate-Scale Quantum Computing Era</title>
+      <link>https://albacl.github.io/talk/09_2021_jures_nisq/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/09_2021_jures_nisq/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Noisy intermediate-scale quantum (NISQ) algorithms&amp;rdquo;, Kishor Bharti, Alba Cervera-Lierta, Thi Ha Kyaw, Tobias Haug, Sumner Alperin-Lea, Abhinav Anand, Matthias Degroote, Hermanni Heimonen, Jakob S. Kottmann, Tim Menke, Wai-Keong Mok, Sukin Sim, Leong-Chuan Kwek, Alán Aspuru-Guzik, 
+&lt;a href=&#34;https://arxiv.org/abs/2101.08448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2101.08448 [quant-ph] (2021)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Variational Quantum Computing</title>
@@ -374,26 +387,6 @@ M. Schuld, R. Sweke, J. J. Meyer,
       <guid>https://albacl.github.io/talk/bsc_symposium/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Based on the references:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&amp;ldquo;Exact Ising model simulation on a quantum computer&amp;rdquo;, A. Cervera-Lierta,&lt;br&gt;
-
-&lt;a href=&#34;https://doi.org/10.22331/q-2018-12-21-114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum &lt;strong&gt;2&lt;/strong&gt;, 114 (2018)&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Quantum circuits for maximally entangled states&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, and Dardo Goyeneche,&lt;br&gt;
-
-&lt;a href=&#34;https://doi.org/10.1103/PhysRevA.100.022342&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Rev. A &lt;strong&gt;100&lt;/strong&gt;, 022342 (2019)&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Maximal Entanglement. Applications to Quantum Computation and Particle Physics</title>
-      <link>https://albacl.github.io/talk/toronto_2019/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/talk/toronto_2019/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Based on the references:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;Maximal Entanglement in High Energy Physics&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, J. Rojo, and L. Rottoli,&lt;br&gt;
-
-&lt;a href=&#34;http://doi.org/10.21468/SciPostPhys.3.5.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SciPost Phys. &lt;strong&gt;3&lt;/strong&gt;, 036 (2017)&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Exact Ising model simulation on a quantum computer&amp;rdquo;, A. Cervera-Lierta,&lt;br&gt;
 
 &lt;a href=&#34;https://doi.org/10.22331/q-2018-12-21-114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum &lt;strong&gt;2&lt;/strong&gt;, 114 (2018)&lt;/a&gt;.&lt;/li&gt;

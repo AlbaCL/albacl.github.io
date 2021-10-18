@@ -5,7 +5,7 @@
     <link>https://albacl.github.io/</link>
       <atom:link href="https://albacl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alba Cervera-Lierta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Alba Cervera-Lierta</title>
@@ -60,6 +60,19 @@
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://albacl.github.io/publication/09_2021_klaus/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The Noisy Intermediate-Scale Quantum Computing Era</title>
+      <link>https://albacl.github.io/talk/09_2021_jures_nisq/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/09_2021_jures_nisq/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Based on the reference:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Noisy intermediate-scale quantum (NISQ) algorithms&amp;rdquo;, Kishor Bharti, Alba Cervera-Lierta, Thi Ha Kyaw, Tobias Haug, Sumner Alperin-Lea, Abhinav Anand, Matthias Degroote, Hermanni Heimonen, Jakob S. Kottmann, Tim Menke, Wai-Keong Mok, Sukin Sim, Leong-Chuan Kwek, Alán Aspuru-Guzik, 
+&lt;a href=&#34;https://arxiv.org/abs/2101.08448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2101.08448 [quant-ph] (2021)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -885,26 +898,6 @@ on a Quantum Computer”&lt;/em&gt;. Quantum Machine Intelligence &lt;strong&gt;
     </item>
     
     <item>
-      <title>Maximal Entanglement. Applications to Quantum Computation and Particle Physics</title>
-      <link>https://albacl.github.io/talk/toronto_2019/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/talk/toronto_2019/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Based on the references:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;Maximal Entanglement in High Energy Physics&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, J. Rojo, and L. Rottoli,&lt;br&gt;
-
-&lt;a href=&#34;http://doi.org/10.21468/SciPostPhys.3.5.036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SciPost Phys. &lt;strong&gt;3&lt;/strong&gt;, 036 (2017)&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Exact Ising model simulation on a quantum computer&amp;rdquo;, A. Cervera-Lierta,&lt;br&gt;
-
-&lt;a href=&#34;https://doi.org/10.22331/q-2018-12-21-114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum &lt;strong&gt;2&lt;/strong&gt;, 114 (2018)&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Quantum circuits for maximally entangled states&amp;rdquo;, A. Cervera-Lierta, J. I. Latorre, and Dardo Goyeneche,&lt;br&gt;
-
-&lt;a href=&#34;https://doi.org/10.1103/PhysRevA.100.022342&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Rev. A &lt;strong&gt;100&lt;/strong&gt;, 022342 (2019)&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Interviews</title>
       <link>https://albacl.github.io/media/interviews/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
@@ -925,7 +918,7 @@ on a Quantum Computer”&lt;/em&gt;. Quantum Machine Intelligence &lt;strong&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://innovadores.larazon.es/es/y-si-el-machine-learning-diese-el-salto-cuantico/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;quot;¿Y si el &amp;lsquo;machine learning&amp;rsquo; diese el salto cuántico?&amp;quot;&lt;/a&gt;,&lt;br&gt;
+&lt;a href=&#34;https://www.elespanol.com/invertia/disruptores-innovadores/innovadores/investigacion/20191128/machine-learning-diese-salto-cuantico/447706572_0.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;quot;¿Y si el &amp;lsquo;machine learning&amp;rsquo; diese el salto cuántico?&amp;quot;&lt;/a&gt;,&lt;br&gt;
 &lt;em&gt;Innovadores&lt;/em&gt;, María Climent, November 2019.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1238,6 +1231,15 @@ Three
 &lt;p&gt;While I was working on this project, IBM announced the IBM Q Awards, so I thought my work could be a good tutorial to learn how to use QISKit and an example of the applicability of quantum computation in condensed matter physics. Apparently judges thought the same, as they proposed my work as the winner. I could not be more honored for this recognition, even more after checking the incredible works from other people which are also available as 
 &lt;a href=&#34;https://nbviewer.jupyter.org/github/QISKit/qiskit-tutorial/blob/master/appendix/teach_me_qiskit_2018/README.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QISKit tutorials&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We are living through an amazing period, witnessing the birth of a technology that involves the creation of a new paradigm in computation. In my opinion, the openning of the experiments and their programming tools to everybody not only democratizes science but also boosts its progress.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://albacl.github.io/terms_old/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://albacl.github.io/terms_old/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -1562,6 +1564,14 @@ Who will develop the quantum Stradivarius? Who is going to be the Stradivari tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://albacl.github.io/media/radio/</guid>
       <description>&lt;p&gt;&lt;strong&gt;English&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://linktr.ee/jeremyullman&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Episode 66: Quantum Computation ft. Alba Cervera-Lierta&lt;/a&gt;, &lt;em&gt;Abstract: The Future of Science&lt;/em&gt;, Jeremy Ullman, September 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sptfy.com/6u5a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spotify&lt;/a&gt;, 
+&lt;a href=&#34;https://podcasts.apple.com/ca/podcast/ep-66-quantum-computation-ft-alba-cervera-lierta/id1510997356?i=1000535900065&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APPLE PODCASTS&lt;/a&gt;, 
+&lt;a href=&#34;https://anchor.fm/abstractcast/episodes/Ep--66---Quantum-Computation-ft--Alba-Cervera-Lierta-e17i6u9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANCHOR&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://datacast.simplecast.com/episodes/alba-cervera-lierta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Episode 56: Apprehending Quantum Computation with Alba Cervera-Liert‪a‬&lt;/a&gt;, &lt;em&gt;Datacast&lt;/em&gt;, James Lee, February 2021.&lt;/li&gt;

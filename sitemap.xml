@@ -18,17 +18,12 @@
   </url>
   
   <url>
-    <loc>https://albacl.github.io/publication-type/7/</loc>
+    <loc>https://albacl.github.io/publication-type/3/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://albacl.github.io/author/alan-aspuru-guzik/</loc>
-    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albacl.github.io/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,7 +79,12 @@
   
   <url>
     <loc>https://albacl.github.io/talk/</loc>
-    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/talk/09_2021_jures_nisq/</loc>
+    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -458,6 +458,11 @@
   </url>
   
   <url>
+    <loc>https://albacl.github.io/publication-type/7/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/tag/bell-inequalities/</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
   </url>
@@ -490,11 +495,6 @@
   <url>
     <loc>https://albacl.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albacl.github.io/talk/toronto_2019/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -550,6 +550,16 @@
   <url>
     <loc>https://albacl.github.io/post/how_i_became_qc/</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/terms_old/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
