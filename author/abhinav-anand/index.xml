@@ -5,12 +5,20 @@
     <link>https://albacl.github.io/author/abhinav-anand/</link>
       <atom:link href="https://albacl.github.io/author/abhinav-anand/index.xml" rel="self" type="application/rss+xml" />
     <description>Abhinav Anand</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Abhinav Anand</title>
       <link>https://albacl.github.io/author/abhinav-anand/</link>
     </image>
+    
+    <item>
+      <title>Toward Reliability in the NISQ Era: Robust Interval Guarantee for Quantum Measurements on Approximate States</title>
+      <link>https://albacl.github.io/publication/10_2021_nisq_performance/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/10_2021_nisq_performance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tequila: A platform for rapid development of quantum algorithms</title>

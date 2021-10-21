@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NISQ Algorithms | Alba Cervera-Lierta</title>
+    <title>NISQ algorithms | Alba Cervera-Lierta</title>
     <link>https://albacl.github.io/tag/nisq-algorithms/</link>
       <atom:link href="https://albacl.github.io/tag/nisq-algorithms/index.xml" rel="self" type="application/rss+xml" />
-    <description>NISQ Algorithms</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
+    <description>NISQ algorithms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
-      <title>NISQ Algorithms</title>
+      <title>NISQ algorithms</title>
       <link>https://albacl.github.io/tag/nisq-algorithms/</link>
     </image>
+    
+    <item>
+      <title>Toward Reliability in the NISQ Era: Robust Interval Guarantee for Quantum Measurements on Approximate States</title>
+      <link>https://albacl.github.io/publication/10_2021_nisq_performance/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/10_2021_nisq_performance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation</title>
