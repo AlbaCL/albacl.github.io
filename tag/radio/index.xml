@@ -39,6 +39,17 @@
 &lt;p&gt;&lt;strong&gt;Spanish&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;a href=&#34;https://www.rtve.es/play/audios/palabra-de-ingeniero/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum Spain&lt;/a&gt;&lt;br&gt;
+&amp;ldquo;Palabra de Ingeniero&amp;rdquo;, &lt;em&gt;RNE&lt;/em&gt;, Manuel Seara y Real Academia de Ingeniería, December 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;audio controls style=&#34;width: 100%; margin-bottom: 20px&#34;&gt;
+    
+    &lt;source src=&#34;palabra_ingeniero.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    
+    Your browser does not support the audio element.
+&lt;/audio&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;a href=&#34;https://www.ondacero.es/programas/mas-de-uno/programas-completos/mas-de-uno-08082018_201808085b6ad0510cf227b4079e174d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Entrevista a Alba Cervera&lt;/a&gt;&lt;br&gt;
 &amp;ldquo;Más de Uno&amp;rdquo;, &lt;em&gt;Onda Cero&lt;/em&gt;, José Miguel Azpiroz and Begoña Gómez de la Fuente, August 2018.&lt;/li&gt;
 &lt;/ul&gt;
@@ -50,6 +61,17 @@
 &lt;/audio&gt;
 &lt;p&gt;&lt;strong&gt;Catalan&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.ccma.cat/catradio/alacarta/el-suplement/alba-cervera-hem-de-trencar-amb-lestereotip-que-per-ser-fisic-has-de-ser-un-home-i-friqui/audio/1118761/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Entrevista a Alba Cervera&lt;/a&gt;,
+&amp;ldquo;El Suplement&amp;rdquo;, &lt;em&gt;Catalunya Radio&lt;/em&gt;, December 2021.
+&lt;audio controls style=&#34;width: 100%; margin-bottom: 20px&#34;&gt;
+    
+    &lt;source src=&#34;catradio_quantum_spain.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    
+    Your browser does not support the audio element.
+&lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Secció de ciència,&lt;br&gt;
 &amp;ldquo;Aquí, amb Josep Cuní&amp;rdquo;, &lt;em&gt;SER&lt;/em&gt;, Josep Cuní, January 2019.
