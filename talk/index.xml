@@ -5,12 +5,36 @@
     <link>https://albacl.github.io/talk/</link>
       <atom:link href="https://albacl.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Talks</title>
       <link>https://albacl.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Tecnologies quàntiques, present i futur</title>
+      <link>https://albacl.github.io/talk/2022_02_mao_tq/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/2022_02_mao_tq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computació quàntica, present i futur d&#39;una revolució tecnològica</title>
+      <link>https://albacl.github.io/talk/2022_02_iccub_tq/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/2022_02_iccub_tq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Spain, un impulso para el ecosistema de computación cuántica en España</title>
+      <link>https://albacl.github.io/talk/2022_02_madquantum_quantumspain/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/2022_02_madquantum_quantumspain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Noisy Intermediate-Scale Quantum Computation</title>
@@ -512,6 +536,14 @@ M. Schuld, R. Sweke, J. J. Meyer,
 &lt;a href=&#34;https://doi.org/10.22331/q-2018-12-21-114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum &lt;strong&gt;2&lt;/strong&gt;, 114 (2018)&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Tecnologies quàntiques, present i futur</title>
+      <link>https://albacl.github.io/talk/2022_02_dissfisicauab_tq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/talk/2022_02_dissfisicauab_tq/</guid>
+      <description></description>
     </item>
     
   </channel>
