@@ -5,12 +5,20 @@
     <link>https://albacl.github.io/author/mario-krenn/</link>
       <atom:link href="https://albacl.github.io/author/mario-krenn/index.xml" rel="self" type="application/rss+xml" />
     <description>Mario Krenn</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Mario Krenn</title>
       <link>https://albacl.github.io/author/mario-krenn/</link>
     </image>
+    
+    <item>
+      <title>Experimental high-dimensional Greenberger–Horne–Zeilinger entanglement with superconducting transmon qutrits</title>
+      <link>https://albacl.github.io/publication/ghz-qutrit/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/ghz-qutrit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Design of quantum optical experiments with logic artificial intelligence</title>
@@ -25,14 +33,6 @@
       <link>https://albacl.github.io/publication/09_2021_qovae/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://albacl.github.io/publication/09_2021_qovae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experimental high-dimensional Greenberger–Horne–Zeilinger entanglement with superconducting transmon qutrits</title>
-      <link>https://albacl.github.io/publication/ghz-qutrit/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/ghz-qutrit/</guid>
       <description></description>
     </item>
     

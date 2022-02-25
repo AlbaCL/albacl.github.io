@@ -5,12 +5,28 @@
     <link>https://albacl.github.io/author/alba-cervera-lierta/</link>
       <atom:link href="https://albacl.github.io/author/alba-cervera-lierta/index.xml" rel="self" type="application/rss+xml" />
     <description>Alba Cervera-Lierta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/author/alba-cervera-lierta/avatar_hu160667f8ad8267dcc8cdeac0885aea85_1463808_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Alba Cervera-Lierta</title>
       <link>https://albacl.github.io/author/alba-cervera-lierta/</link>
     </image>
+    
+    <item>
+      <title>Experimental high-dimensional Greenberger–Horne–Zeilinger entanglement with superconducting transmon qutrits</title>
+      <link>https://albacl.github.io/publication/ghz-qutrit/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/ghz-qutrit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy intermediate-scale quantum (NISQ) algorithms</title>
+      <link>https://albacl.github.io/publication/nisq/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/nisq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Toward Reliability in the NISQ Era: Robust Interval Guarantee for Quantum Measurements on Approximate States</title>
@@ -45,26 +61,10 @@
     </item>
     
     <item>
-      <title>Experimental high-dimensional Greenberger–Horne–Zeilinger entanglement with superconducting transmon qutrits</title>
-      <link>https://albacl.github.io/publication/ghz-qutrit/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/ghz-qutrit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tequila: A platform for rapid development of quantum algorithms</title>
       <link>https://albacl.github.io/publication/tequila/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://albacl.github.io/publication/tequila/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Noisy intermediate-scale quantum (NISQ) algorithms</title>
-      <link>https://albacl.github.io/publication/nisq/</link>
-      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/nisq/</guid>
       <description></description>
     </item>
     

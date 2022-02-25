@@ -5,7 +5,7 @@
     <link>https://albacl.github.io/author/thi-ha-kyaw/</link>
       <atom:link href="https://albacl.github.io/author/thi-ha-kyaw/index.xml" rel="self" type="application/rss+xml" />
     <description>Thi Ha Kyaw</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_2.png</url>
       <title>Thi Ha Kyaw</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Toward Reliability in the NISQ Era: Robust Interval Guarantee for Quantum Measurements on Approximate States</title>
-      <link>https://albacl.github.io/publication/10_2021_nisq_performance/</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/10_2021_nisq_performance/</guid>
+      <title>Noisy intermediate-scale quantum (NISQ) algorithms</title>
+      <link>https://albacl.github.io/publication/nisq/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/nisq/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Noisy intermediate-scale quantum (NISQ) algorithms</title>
-      <link>https://albacl.github.io/publication/nisq/</link>
-      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/nisq/</guid>
+      <title>Toward Reliability in the NISQ Era: Robust Interval Guarantee for Quantum Measurements on Approximate States</title>
+      <link>https://albacl.github.io/publication/10_2021_nisq_performance/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://albacl.github.io/publication/10_2021_nisq_performance/</guid>
       <description></description>
     </item>
     
