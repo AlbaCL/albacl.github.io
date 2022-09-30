@@ -5,68 +5,12 @@
     <link>https://albacl.github.io/author/alba-cervera-lierta/</link>
       <atom:link href="https://albacl.github.io/author/alba-cervera-lierta/index.xml" rel="self" type="application/rss+xml" />
     <description>Alba Cervera-Lierta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://albacl.github.io/author/alba-cervera-lierta/avatar_hu160667f8ad8267dcc8cdeac0885aea85_1463808_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://albacl.github.io/images/icon_hu77daeddd04408614e47a50c15740d3cc_14795_512x512_fill_lanczos_center_3.png</url>
       <title>Alba Cervera-Lierta</title>
       <link>https://albacl.github.io/author/alba-cervera-lierta/</link>
     </image>
-    
-    <item>
-      <title>Experimental high-dimensional Greenberger–Horne–Zeilinger entanglement with superconducting transmon qutrits</title>
-      <link>https://albacl.github.io/publication/ghz-qutrit/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/ghz-qutrit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Noisy intermediate-scale quantum (NISQ) algorithms</title>
-      <link>https://albacl.github.io/publication/nisq/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/nisq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toward Reliability in the NISQ Era: Robust Interval Guarantee for Quantum Measurements on Approximate States</title>
-      <link>https://albacl.github.io/publication/10_2021_nisq_performance/</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/10_2021_nisq_performance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design of quantum optical experiments with logic artificial intelligence</title>
-      <link>https://albacl.github.io/publication/09_2021_klaus/</link>
-      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/09_2021_klaus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Interpretable Representations of Entanglement in Quantum Optics Experiments using Deep Generative Models</title>
-      <link>https://albacl.github.io/publication/09_2021_qovae/</link>
-      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/09_2021_qovae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation</title>
-      <link>https://albacl.github.io/publication/metavqe/</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/metavqe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tequila: A platform for rapid development of quantum algorithms</title>
-      <link>https://albacl.github.io/publication/tequila/</link>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/tequila/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Computación cuántica en la nube</title>
@@ -212,7 +156,7 @@ cuántico.&lt;/p&gt;
 
 
 
-&lt;figure id=&#34;figure-a-la-izquierda-los-diferentes-niveles-de-programación-de-un-ordenador-cuántico-empezando-por-el-estado-cuántico-de-los-qubits-los-qubits-son-manipulados-con-un-conjunto-de-pulsos-y-operaciones-físicas-que-implementan-las-puertas-lógicas-cuánticas-un-circuito-cuántico-es-el-conjunto-de-puertas-y-qubits-que-forman-parte-de-un-algoritmo-cuántico-a-la-derecha-una-tabla-con-las-diferentes-empresas-que-ofrecen-en-abierto-sus-lenguajes-cuánticos-&#34;&gt;
+&lt;figure id=&#34;figure-a-la-izquierda-los-diferentes-niveles-de-programación-de-un-ordenador-cuántico-empezando-por-el-estado-cuántico-de-los-qubits-los-qubits-son-manipulados-con-un-conjunto-de-pulsos-y-operaciones-físicas-que-implementan-las-puertas-lógicas-cuánticas-un-circuito-cuántico-es-el-conjunto-de-puertas-y-qubits-que-forman-parte-de-un-algoritmo-cuántico-a-la-derecha-una-tabla-con-las-diferentes-empresas-que-ofrecen-en-abierto-sus-lenguajes-cuánticos&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://albacl.github.io/img/posts/Figura_2.PNG&#34; data-caption=&#34;A la izquierda, los diferentes niveles de programación de un ordenador cuántico. Empezando por el estado cuántico de los qubits. Los qubits son manipulados con un conjunto de pulsos y operaciones físicas que implementan las puertas lógicas cuánticas. Un circuito cuántico es el conjunto de puertas y qubits que forman parte de un algoritmo cuántico. A la derecha, una tabla con las diferentes empresas que ofrecen en abierto sus lenguajes cuánticos.&#34;&gt;
@@ -452,48 +396,6 @@ on a Quantum Computer”&lt;/em&gt;. Quantum Machine Intelligence &lt;strong&gt;
 [10] Repositorio 
 &lt;a href=&#34;https://www.gitlab.com/apozas/bayesian-dl-quantum&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bayesian-dl-quantum&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Data re-uploading for a universal quantum classifier</title>
-      <link>https://albacl.github.io/publication/data-reuploading-classifier/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/data-reuploading-classifier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantum circuits for maximally entangled states</title>
-      <link>https://albacl.github.io/publication/ames/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/ames/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maximal Entanglement: Applications in Quantum Information and Particle Physics</title>
-      <link>https://albacl.github.io/publication/tesi/</link>
-      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/tesi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exact Ising model simulation on a quantum computer</title>
-      <link>https://albacl.github.io/publication/exact-ising/</link>
-      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/exact-ising/</guid>
-      <description>&lt;p&gt;The code used to obtain the results in IBM quantum devices was awarded with the 
-&lt;a href=&#34;https://www.ibm.com/blogs/research/2018/06/teach-qiskit-winner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Teach Me QISKit&amp;rdquo; award&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multipartite entanglement in spin chains and the Hyperdeterminant</title>
-      <link>https://albacl.github.io/publication/hdet/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/hdet/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -878,22 +780,6 @@ Who will develop the quantum Stradivarius? Who is going to be the Stradivari tha
 &lt;p&gt;If you enjoyed this post, check other articles written by me and other members of the Quantum World Association! Check the 
 &lt;a href=&#34;https://medium.com/@quantum_wa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QWA Medium page&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Maximal Entanglement in High Energy Physics</title>
-      <link>https://albacl.github.io/publication/maxent/</link>
-      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/maxent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Operational approach to Bell inequalities: Application to qutrits</title>
-      <link>https://albacl.github.io/publication/bellineq/</link>
-      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://albacl.github.io/publication/bellineq/</guid>
-      <description></description>
     </item>
     
   </channel>
