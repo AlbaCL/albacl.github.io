@@ -1,190 +1,318 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://albacl.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://albacl.github.io/</loc>
-    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/</loc>
     <lastmod>2022-02-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/2022_02_mao_tq/</loc>
     <lastmod>2022-02-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/2022_02_iccub_tq/</loc>
     <lastmod>2022-02-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/2022_02_madquantum_quantumspain/</loc>
     <lastmod>2022-02-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/01_2022_iqtc_nisq/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/12_2021_bscannual_quantumspain/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/12_2021_logrono_quantumspain/</loc>
     <lastmod>2021-12-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/12_2021_bcnquantum_quantumspain/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/11_2021_quantum21_klaus/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/10_2021_mpq_klaus/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/10_2021_rice_klaus/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/10_2021_ptc_nisq/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/09_2021_jures_nisq/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/09_2021_santander_school/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/08_2021_warsaw_school/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/07_2021_fermilab_maxentghz/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/07_2021_cern_nisq/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/07_2021_mlforqx_metavqe/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/06_2021_qworld_metavqe/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/05_2021_qiskit_ghz/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/05_2021_oxford_metavqe/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/05_2021_pulseqc_ghz/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/05_2021_sciml_metavqe/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/04_2021_apsapril_maxent/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/04_2021_ibero_nisq/</loc>
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/nisq_hypatia_2021/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/04_2021_meryland_maxent/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/march_meeting_2021/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/nisq_belgium_2021/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/qhack_2021/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/ucl_winter_2020/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/qturn_2020/</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/qtml_2020/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/tequila_2020/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/int_2020/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/author/alba-cervera-lierta/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/author/alejandro-pozas-kerstjens/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/authors/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/post/computacion_nube/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/post/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/bsc_symposium/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/tag/interviews/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/media/interviews/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/media/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/tags/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/stony_brook_2018/</loc>
     <lastmod>2018-09-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/post/how_i_became_qc/</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://albacl.github.io/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/terms_old/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/post/quantum_symphony/</loc>
     <lastmod>2018-05-04T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/qpt_2018/</loc>
     <lastmod>2018-04-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/publication_types/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/tag/radio/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/media/radio/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/talk/2022_02_dissfisicauab_tq/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/tag/video/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://albacl.github.io/media/video/</loc>
   </url>
+  
 </urlset>
